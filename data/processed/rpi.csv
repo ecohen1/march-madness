@@ -1,0 +1,5126 @@
+season,team,rpi
+2003,Texas ,0.664
+2003,Arizona ,0.663
+2003,Kentucky ,0.655
+2003,Wake Forest ,0.647
+2003,Georgia ,0.647
+2003,Kansas ,0.643
+2003,Marquette ,0.641
+2003,Syracuse ,0.640
+2003,Oklahoma ,0.638
+2003,BYU ,0.632
+2003,Pittsburgh ,0.631
+2003,Florida ,0.630
+2003,Duke ,0.629
+2003,Notre Dame ,0.626
+2003,Xavier ,0.624
+2003,Louisville ,0.621
+2003,Utah ,0.621
+2003,Illinois ,0.621
+2003,Dayton ,0.618
+2003,Stanford ,0.618
+2003,Oklahoma St ,0.616
+2003,Wisconsin ,0.614
+2003,Missouri ,0.610
+2003,Creighton ,0.609
+2003,St Josephs ,0.607
+2003,Butler ,0.602
+2003,Miss State ,0.600
+2003,Purdue ,0.599
+2003,Cincinnati ,0.598
+2003,S Illinois ,0.598
+2003,Memphis ,0.597
+2003,Maryland ,0.594
+2003,California ,0.593
+2003,Weber State ,0.591
+2003,Arizona St ,0.591
+2003,Alabama ,0.589
+2003,Colorado ,0.588
+2003,WI-Milwkee ,0.587
+2003,Michigan St ,0.586
+2003,Gonzaga ,0.585
+2003,Connecticut ,0.584
+2003,Indiana ,0.582
+2003,Seton Hall ,0.582
+2003,Central Mich ,0.581
+2003,NC-Wilmgton ,0.576
+2003,LSU ,0.574
+2003,Holy Cross ,0.573
+2003,Texas Tech ,0.573
+2003,Boston Col ,0.572
+2003,Saint Louis ,0.571
+2003,UNLV ,0.571
+2003,Auburn ,0.570
+2003,W Kentucky ,0.569
+2003,Oregon ,0.568
+2003,Tennessee ,0.568
+2003,DePaul ,0.566
+2003,Manhattan ,0.565
+2003,Wyoming ,0.565
+2003,Fresno St ,0.562
+2003,Troy ,0.562
+2003,U Penn ,0.562
+2003,LA Lafayette ,0.562
+2003,Austin Peay ,0.560
+2003,N Carolina ,0.559
+2003,IL-Chicago ,0.558
+2003,Providence ,0.558
+2003,Villanova ,0.555
+2003,Texas A&M ,0.554
+2003,Michigan ,0.554
+2003,Tulsa ,0.552
+2003,NC State ,0.552
+2003,W Michigan ,0.550
+2003,Col Charlestn ,0.550
+2003,Minnesota ,0.550
+2003,GA Tech ,0.550
+2003,Wagner ,0.547
+2003,St Johns ,0.545
+2003,Drexel ,0.545
+2003,Rice ,0.545
+2003,Valparaiso ,0.544
+2003,Kent State ,0.543
+2003,Rhode Island ,0.543
+2003,Ohio State ,0.542
+2003,Virginia ,0.542
+2003,Ste F Austin ,0.542
+2003,Richmond ,0.541
+2003,Utah State ,0.541
+2003,San Diego ,0.540
+2003,Hawaii ,0.539
+2003,Mercer ,0.539
+2003,Fairfield ,0.539
+2003,Sam Hous St ,0.538
+2003,S Carolina ,0.535
+2003,UC Irvine ,0.535
+2003,Temple ,0.535
+2003,San Diego St ,0.535
+2003,Detroit ,0.534
+2003,Charlotte ,0.534
+2003,Boston U ,0.534
+2003,Chattanooga ,0.533
+2003,Nevada ,0.532
+2003,E Tenn St ,0.531
+2003,N Mex State ,0.531
+2003,TN Tech ,0.530
+2003,E Washingtn ,0.529
+2003,Clemson ,0.528
+2003,S Methodist ,0.528
+2003,Niagara ,0.526
+2003,Geo Mason ,0.525
+2003,Siena ,0.525
+2003,Central FL ,0.525
+2003,UCSB ,0.525
+2003,W Virginia ,0.524
+2003,Iowa State ,0.524
+2003,Mississippi ,0.524
+2003,Florida St ,0.522
+2003,N Illinois ,0.521
+2003,Colorado St ,0.521
+2003,Missouri St ,0.518
+2003,Princeton ,0.518
+2003,Baylor ,0.518
+2003,Iowa ,0.518
+2003,Miami (OH) ,0.518
+2003,Brown ,0.518
+2003,Wichita St ,0.517
+2003,Murray St ,0.516
+2003,San Fransco ,0.516
+2003,Georgetown ,0.515
+2003,Yale ,0.515
+2003,UAB ,0.515
+2003,Morehead St ,0.515
+2003,St Bonavent ,0.515
+2003,VCU ,0.515
+2003,Arkansas ,0.514
+2003,Iona ,0.514
+2003,Ball State ,0.513
+2003,Belmont ,0.513
+2003,Rutgers ,0.511
+2003,Davidson ,0.511
+2003,AR Lit Rock ,0.511
+2003,App State ,0.509
+2003,Pepperdine ,0.509
+2003,TX-Arlington ,0.509
+2003,Kansas St ,0.509
+2003,Vanderbilt ,0.507
+2003,S Alabama ,0.507
+2003,Delaware ,0.506
+2003,S Florida ,0.506
+2003,Nebraska ,0.506
+2003,Loyola-Chi ,0.505
+2003,St Marys ,0.505
+2003,USC ,0.505
+2003,Vermont ,0.504
+2003,Oregon St ,0.503
+2003,American ,0.503
+2003,Hartford ,0.503
+2003,Ohio ,0.502
+2003,E Carolina ,0.502
+2003,Evansville ,0.501
+2003,Idaho State ,0.500
+2003,Middle Tenn ,0.498
+2003,Toledo ,0.497
+2003,Denver ,0.497
+2003,Air Force ,0.497
+2003,Geo Wshgtn ,0.496
+2003,Tulane ,0.495
+2003,Prairie View ,0.495
+2003,UCLA ,0.494
+2003,LA Tech ,0.494
+2003,Bowling Grn ,0.494
+2003,IUPUI ,0.493
+2003,S Car State ,0.492
+2003,Delaware St ,0.492
+2003,Oral Roberts ,0.491
+2003,Akron ,0.491
+2003,NC-Asheville ,0.491
+2003,Bham Southern ,0.490
+2003,E Illinois ,0.490
+2003,Monmouth ,0.489
+2003,Quinnipiac ,0.489
+2003,La Salle ,0.489
+2003,Washington ,0.489
+2003,New Orleans ,0.487
+2003,Winthrop ,0.487
+2003,Marist ,0.486
+2003,S Mississippi ,0.486
+2003,Texas State ,0.484
+2003,Florida A&M ,0.483
+2003,Central Conn ,0.482
+2003,Jksnville St ,0.481
+2003,Samford ,0.481
+2003,McNeese St ,0.480
+2003,Bradley ,0.479
+2003,Binghamton ,0.479
+2003,Bucknell ,0.478
+2003,Marshall ,0.478
+2003,Miami (FL) ,0.478
+2003,Boise State ,0.478
+2003,Hampton ,0.477
+2003,Cal Poly ,0.476
+2003,Old Dominion ,0.475
+2003,GA Southern ,0.475
+2003,Wofford ,0.475
+2003,Harvard ,0.474
+2003,N Arizona ,0.474
+2003,New Mexico ,0.473
+2003,Lehigh ,0.472
+2003,TX Christian ,0.472
+2003,Northeastrn ,0.471
+2003,Pacific ,0.471
+2003,TN Martin ,0.470
+2003,Montana ,0.470
+2003,VA Tech ,0.470
+2003,E Michigan ,0.469
+2003,Charl South ,0.469
+2003,Oakland ,0.469
+2003,St Fran (PA) ,0.468
+2003,Cal St Nrdge ,0.468
+2003,St Fran (NY) ,0.468
+2003,Santa Clara ,0.468
+2003,U Mass ,0.466
+2003,Georgia St ,0.466
+2003,Rider ,0.465
+2003,Elon ,0.465
+2003,Northwestern ,0.465
+2003,St Peters ,0.465
+2003,Coppin State ,0.464
+2003,Alabama St ,0.464
+2003,Maine ,0.463
+2003,Colgate ,0.463
+2003,Penn State ,0.463
+2003,Houston ,0.462
+2003,Miss Val St ,0.461
+2003,Illinois St ,0.461
+2003,Jacksonville ,0.460
+2003,F Dickinson ,0.460
+2003,Lamar ,0.459
+2003,North Texas ,0.459
+2003,Arkansas St ,0.458
+2003,Coastal Car ,0.458
+2003,N Iowa ,0.458
+2003,Montana St ,0.457
+2003,Duquesne ,0.456
+2003,Portland ,0.456
+2003,Sac State ,0.456
+2003,James Mad ,0.456
+2003,Idaho ,0.456
+2003,Lafayette ,0.455
+2003,Canisius ,0.455
+2003,TX-San Ant ,0.454
+2003,Furman ,0.454
+2003,TX Southern ,0.453
+2003,LA Monroe ,0.451
+2003,TX A&M-CC ,0.451
+2003,Loyola Mymt ,0.449
+2003,Centenary ,0.449
+2003,Hofstra ,0.446
+2003,SE Louisiana ,0.446
+2003,WI-Grn Bay ,0.445
+2003,Howard ,0.443
+2003,Wash State ,0.443
+2003,Jackson St ,0.442
+2003,Wright State ,0.441
+2003,LIU-Brooklyn ,0.440
+2003,VA Military ,0.440
+2003,Indiana St ,0.438
+2003,Drake ,0.438
+2003,Liberty ,0.438
+2003,Wm & Mary ,0.438
+2003,UMKC ,0.435
+2003,Alcorn State ,0.435
+2003,CS Fullerton ,0.434
+2003,Cleveland St ,0.434
+2003,Grambling St ,0.434
+2003,Stony Brook ,0.433
+2003,SE Missouri ,0.433
+2003,IPFW ,0.429
+2003,Florida Intl ,0.428
+2003,Rob Morris ,0.427
+2003,Mt St Marys ,0.427
+2003,Radford ,0.426
+2003,Norfolk St ,0.425
+2003,E Kentucky ,0.422
+2003,Fordham ,0.421
+2003,Cornell ,0.421
+2003,W Carolina ,0.421
+2003,San Jose St ,0.419
+2003,Youngs St ,0.419
+2003,S Utah ,0.419
+2003,Dartmouth ,0.418
+2003,Fla Atlantic ,0.415
+2003,UC Riverside ,0.415
+2003,NC-Grnsboro ,0.414
+2003,Navy ,0.412
+2003,Sacred Hrt ,0.411
+2003,Albany ,0.408
+2003,Stetson ,0.402
+2003,NW State ,0.402
+2003,Portland St ,0.400
+2003,Gard-Webb ,0.399
+2003,Citadel ,0.398
+2003,N Hampshire ,0.396
+2003,Loyola-MD ,0.396
+2003,W Illinois ,0.395
+2003,Maryland BC ,0.394
+2003,TX-Pan Am ,0.392
+2003,Beth-Cook ,0.390
+2003,Buffalo ,0.386
+2003,Ark Pine Bl ,0.384
+2003,TX El Paso ,0.383
+2003,High Point ,0.380
+2003,Lg Beach St ,0.377
+2003,Army ,0.372
+2003,Nicholls St ,0.366
+2003,Chicago St ,0.366
+2003,Towson ,0.365
+2003,Alab A&M ,0.362
+2003,Morgan St ,0.360
+2003,Lipscomb ,0.359
+2003,Maryland ES ,0.356
+2003,NC A&T ,0.355
+2003,Columbia ,0.352
+2003,Campbell ,0.351
+2003,TN State ,0.350
+2003,Savannah St ,0.349
+2003,Southern ,0.346
+2004,Duke ,0.670
+2004,St Josephs ,0.668
+2004,Kentucky ,0.661
+2004,Miss State ,0.646
+2004,Stanford ,0.637
+2004,Pittsburgh ,0.636
+2004,Oklahoma St ,0.636
+2004,Gonzaga ,0.635
+2004,Wisconsin ,0.631
+2004,Texas ,0.628
+2004,Cincinnati ,0.626
+2004,NC State ,0.625
+2004,Syracuse ,0.623
+2004,N Carolina ,0.622
+2004,Wake Forest ,0.621
+2004,GA Tech ,0.621
+2004,BYU ,0.620
+2004,Providence ,0.619
+2004,Seton Hall ,0.617
+2004,Illinois ,0.616
+2004,Memphis ,0.615
+2004,Florida ,0.615
+2004,Louisville ,0.613
+2004,S Illinois ,0.611
+2004,Alabama ,0.609
+2004,Boston Col ,0.608
+2004,Charlotte ,0.604
+2004,Texas Tech ,0.600
+2004,Vanderbilt ,0.600
+2004,Utah State ,0.599
+2004,UAB ,0.598
+2004,LSU ,0.593
+2004,Arizona ,0.588
+2004,Maryland ,0.587
+2004,Dayton ,0.586
+2004,Manhattan ,0.585
+2004,W Michigan ,0.585
+2004,Utah ,0.584
+2004,Michigan St ,0.584
+2004,Air Force ,0.584
+2004,Richmond ,0.583
+2004,Missouri ,0.582
+2004,DePaul ,0.582
+2004,S Carolina ,0.579
+2004,Rutgers ,0.578
+2004,Xavier ,0.576
+2004,VCU ,0.576
+2004,Florida St ,0.575
+2004,Colorado ,0.575
+2004,Murray St ,0.575
+2004,Central FL ,0.573
+2004,LA Lafayette ,0.573
+2004,E Tenn St ,0.572
+2004,Oklahoma ,0.571
+2004,Notre Dame ,0.570
+2004,Troy ,0.569
+2004,N Iowa ,0.566
+2004,Georgia ,0.563
+2004,WI-Milwkee ,0.563
+2004,Virginia ,0.563
+2004,Michigan ,0.562
+2004,Iowa State ,0.560
+2004,Washington ,0.560
+2004,Geo Wshgtn ,0.560
+2004,Wichita St ,0.559
+2004,Geo Mason ,0.559
+2004,Creighton ,0.558
+2004,Saint Louis ,0.558
+2004,Rhode Island ,0.558
+2004,Marquette ,0.557
+2004,Iowa ,0.556
+2004,Austin Peay ,0.556
+2004,Kent State ,0.556
+2004,Villanova ,0.553
+2004,Belmont ,0.552
+2004,Tennessee ,0.550
+2004,Boston U ,0.548
+2004,IL-Chicago ,0.546
+2004,Temple ,0.544
+2004,Auburn ,0.542
+2004,Missouri St ,0.541
+2004,Col Charlestn ,0.541
+2004,Indiana ,0.539
+2004,Miami (OH) ,0.539
+2004,Oregon ,0.538
+2004,Nebraska ,0.538
+2004,Niagara ,0.537
+2004,Drexel ,0.537
+2004,Monmouth ,0.535
+2004,Northwestern ,0.533
+2004,St Peters ,0.533
+2004,W Virginia ,0.533
+2004,Old Dominion ,0.533
+2004,Purdue ,0.532
+2004,Davidson ,0.532
+2004,St Marys ,0.531
+2004,Detroit ,0.530
+2004,Mississippi ,0.528
+2004,Clemson ,0.527
+2004,USC ,0.527
+2004,Georgia St ,0.526
+2004,Fairfield ,0.524
+2004,Miss Val St ,0.524
+2004,California ,0.524
+2004,E Washingtn ,0.523
+2004,S Mississippi ,0.523
+2004,Chattanooga ,0.523
+2004,San Fransco ,0.523
+2004,New Orleans ,0.523
+2004,Princeton ,0.522
+2004,Kansas St ,0.520
+2004,U Penn ,0.519
+2004,Delaware ,0.517
+2004,Hofstra ,0.517
+2004,Pepperdine ,0.516
+2004,Middle Tenn ,0.516
+2004,VA Tech ,0.516
+2004,GA Southern ,0.515
+2004,Buffalo ,0.514
+2004,WI-Grn Bay ,0.514
+2004,NC-Wilmgton ,0.514
+2004,Arkansas ,0.514
+2004,IUPUI ,0.512
+2004,Lafayette ,0.510
+2004,San Diego St ,0.510
+2004,Colorado St ,0.509
+2004,SE Louisiana ,0.507
+2004,Northeastrn ,0.507
+2004,W Kentucky ,0.506
+2004,UCSB ,0.505
+2004,Ball State ,0.503
+2004,TX Christian ,0.502
+2004,American ,0.502
+2004,Bham Southern ,0.502
+2004,UCLA ,0.501
+2004,Maine ,0.501
+2004,Ste F Austin ,0.500
+2004,Wash State ,0.500
+2004,Georgetown ,0.499
+2004,Oral Roberts ,0.498
+2004,Valparaiso ,0.498
+2004,F Dickinson ,0.498
+2004,Wyoming ,0.498
+2004,Bradley ,0.497
+2004,Marshall ,0.496
+2004,Ohio State ,0.496
+2004,TX A&M-CC ,0.495
+2004,Santa Clara ,0.494
+2004,Wright State ,0.493
+2004,Centenary ,0.493
+2004,Denver ,0.493
+2004,Liberty ,0.493
+2004,E Carolina ,0.492
+2004,Morehead St ,0.492
+2004,Idaho ,0.491
+2004,Rider ,0.490
+2004,New Mexico ,0.489
+2004,Butler ,0.489
+2004,Arkansas St ,0.487
+2004,Siena ,0.486
+2004,U Mass ,0.486
+2004,TX-Arlington ,0.485
+2004,Furman ,0.484
+2004,Lehigh ,0.484
+2004,Loyola Mymt ,0.483
+2004,AR Lit Rock ,0.483
+2004,La Salle ,0.482
+2004,Drake ,0.481
+2004,S Alabama ,0.479
+2004,Brown ,0.479
+2004,Akron ,0.479
+2004,St Johns ,0.478
+2004,Chicago St ,0.478
+2004,Penn State ,0.478
+2004,Duquesne ,0.477
+2004,N Mex State ,0.477
+2004,S Car State ,0.477
+2004,UMKC ,0.476
+2004,Binghamton ,0.476
+2004,Oregon St ,0.476
+2004,Bucknell ,0.474
+2004,TX-Pan Am ,0.474
+2004,Iona ,0.474
+2004,Rob Morris ,0.473
+2004,Central Conn ,0.473
+2004,Arizona St ,0.473
+2004,Minnesota ,0.472
+2004,High Point ,0.472
+2004,Miami (FL) ,0.471
+2004,Illinois St ,0.470
+2004,Winthrop ,0.470
+2004,Mercer ,0.469
+2004,Yale ,0.467
+2004,Wagner ,0.467
+2004,Loyola-Chi ,0.466
+2004,Bowling Grn ,0.466
+2004,Houston ,0.466
+2004,N Arizona ,0.465
+2004,Tulane ,0.465
+2004,Holy Cross ,0.464
+2004,Fordham ,0.464
+2004,E Kentucky ,0.463
+2004,St Bonavent ,0.463
+2004,Delaware St ,0.461
+2004,Coppin State ,0.460
+2004,Colgate ,0.460
+2004,St Fran (NY) ,0.460
+2004,North Texas ,0.460
+2004,UC Irvine ,0.459
+2004,Baylor ,0.459
+2004,Stetson ,0.459
+2004,St Fran (PA) ,0.459
+2004,Idaho State ,0.459
+2004,Hartford ,0.457
+2004,TN Tech ,0.457
+2004,Cal St Nrdge ,0.457
+2004,Oakland ,0.457
+2004,TX-San Ant ,0.456
+2004,Cal Poly ,0.456
+2004,App State ,0.456
+2004,Evansville ,0.455
+2004,Canisius ,0.455
+2004,Indiana St ,0.453
+2004,W Carolina ,0.452
+2004,E Michigan ,0.452
+2004,CS Fullerton ,0.451
+2004,S Florida ,0.451
+2004,Sacred Hrt ,0.451
+2004,UC Riverside ,0.451
+2004,Ohio ,0.450
+2004,Samford ,0.450
+2004,Jacksonville ,0.447
+2004,Jksnville St ,0.447
+2004,Texas A&M ,0.445
+2004,NC-Grnsboro ,0.443
+2004,Montana St ,0.442
+2004,Sac State ,0.442
+2004,Mt St Marys ,0.441
+2004,Elon ,0.441
+2004,Montana ,0.441
+2004,Coastal Car ,0.441
+2004,S Utah ,0.441
+2004,TX Southern ,0.441
+2004,TN Martin ,0.439
+2004,Portland St ,0.439
+2004,LA Monroe ,0.439
+2004,Hampton ,0.438
+2004,NC-Asheville ,0.437
+2004,Cornell ,0.436
+2004,McNeese St ,0.435
+2004,Youngs St ,0.434
+2004,Stony Brook ,0.433
+2004,Jackson St ,0.433
+2004,Wofford ,0.432
+2004,SE Missouri ,0.431
+2004,N Hampshire ,0.431
+2004,NW State ,0.431
+2004,Sam Hous St ,0.430
+2004,Texas State ,0.430
+2004,Wm & Mary ,0.429
+2004,Grambling St ,0.426
+2004,Morgan St ,0.426
+2004,Columbia ,0.424
+2004,Alab A&M ,0.422
+2004,Gard-Webb ,0.421
+2004,Towson ,0.421
+2004,Alcorn State ,0.418
+2004,N Illinois ,0.417
+2004,Florida A&M ,0.417
+2004,Southern ,0.416
+2004,TN State ,0.416
+2004,Maryland BC ,0.413
+2004,James Mad ,0.411
+2004,Central Mich ,0.411
+2004,Radford ,0.411
+2004,Fla Atlantic ,0.409
+2004,Marist ,0.407
+2004,LIU-Brooklyn ,0.406
+2004,Cleveland St ,0.400
+2004,San Diego ,0.400
+2004,Prairie View ,0.400
+2004,Savannah St ,0.400
+2004,Lamar ,0.399
+2004,Lipscomb ,0.399
+2004,Lg Beach St ,0.396
+2004,Citadel ,0.396
+2004,IPFW ,0.396
+2004,Harvard ,0.395
+2004,Quinnipiac ,0.393
+2004,Albany ,0.391
+2004,Norfolk St ,0.389
+2004,Navy ,0.383
+2004,E Illinois ,0.377
+2004,Maryland ES ,0.376
+2004,Beth-Cook ,0.374
+2004,Charl South ,0.372
+2004,Florida Intl ,0.371
+2004,W Illinois ,0.371
+2004,VA Military ,0.370
+2004,Army ,0.368
+2004,Campbell ,0.365
+2004,Howard ,0.364
+2004,Loyola-MD ,0.356
+2004,NC A&T ,0.349
+2004,Dartmouth ,0.347
+2004,Ark Pine Bl ,0.346
+2004,Nicholls St ,0.340
+2004,Connecticut ,0.300
+2004,Kansas ,0.300
+2004,Nevada ,0.300
+2004,TX El Paso ,0.300
+2004,Boise State ,0.300
+2004,Rice ,0.300
+2004,Pacific ,0.300
+2004,UNLV ,0.300
+2004,Hawaii ,0.300
+2004,Toledo ,0.300
+2004,Fresno St ,0.300
+2004,LA Tech ,0.300
+2004,S Methodist ,0.300
+2004,Vermont ,0.300
+2004,Portland ,0.300
+2004,Tulsa ,0.300
+2004,Weber State ,0.300
+2004,San Jose St ,0.300
+2004,Alabama St ,0.300
+2004,UC Davis ,0.300
+2005,Kansas ,0.677
+2005,N Carolina ,0.667
+2005,Wake Forest ,0.665
+2005,Illinois ,0.663
+2005,Duke ,0.657
+2005,Oklahoma St ,0.651
+2005,Washington ,0.650
+2005,Boston Col ,0.649
+2005,Arizona ,0.644
+2005,Kentucky ,0.639
+2005,Gonzaga ,0.637
+2005,Connecticut ,0.630
+2005,Villanova ,0.629
+2005,Oklahoma ,0.628
+2005,Alabama ,0.627
+2005,Wisconsin ,0.623
+2005,S Illinois ,0.622
+2005,Louisville ,0.619
+2005,Michigan St ,0.618
+2005,Cincinnati ,0.617
+2005,Syracuse ,0.609
+2005,Pacific ,0.607
+2005,LSU ,0.607
+2005,Utah ,0.606
+2005,Florida ,0.602
+2005,Nevada ,0.599
+2005,Vermont ,0.597
+2005,Miss State ,0.594
+2005,Charlotte ,0.593
+2005,Texas ,0.591
+2005,St Marys ,0.591
+2005,UCLA ,0.590
+2005,Pittsburgh ,0.586
+2005,GA Tech ,0.585
+2005,Texas Tech ,0.585
+2005,Miami (OH) ,0.584
+2005,Stanford ,0.583
+2005,N Iowa ,0.582
+2005,Old Dominion ,0.581
+2005,Minnesota ,0.579
+2005,Iowa ,0.578
+2005,Creighton ,0.578
+2005,Wichita St ,0.576
+2005,TX El Paso ,0.575
+2005,Ohio State ,0.574
+2005,Maryland ,0.574
+2005,DePaul ,0.573
+2005,LA Lafayette ,0.573
+2005,Buffalo ,0.572
+2005,W Virginia ,0.572
+2005,Indiana ,0.571
+2005,WI-Milwkee ,0.568
+2005,Kent State ,0.568
+2005,Iowa State ,0.568
+2005,Missouri St ,0.567
+2005,U Penn ,0.566
+2005,Vanderbilt ,0.566
+2005,Miami (FL) ,0.565
+2005,Texas A&M ,0.565
+2005,Northeastrn ,0.565
+2005,UAB ,0.565
+2005,Holy Cross ,0.565
+2005,Rice ,0.564
+2005,Akron ,0.564
+2005,Arizona St ,0.559
+2005,Notre Dame ,0.557
+2005,Oregon ,0.556
+2005,Georgetown ,0.556
+2005,S Carolina ,0.555
+2005,Geo Wshgtn ,0.555
+2005,Missouri ,0.554
+2005,W Kentucky ,0.554
+2005,NC State ,0.553
+2005,Utah State ,0.553
+2005,Hofstra ,0.553
+2005,Davidson ,0.552
+2005,Houston ,0.552
+2005,Boston U ,0.552
+2005,Bucknell ,0.551
+2005,AR Lit Rock ,0.551
+2005,VCU ,0.551
+2005,Virginia ,0.551
+2005,Winthrop ,0.551
+2005,Ohio ,0.551
+2005,St Josephs ,0.550
+2005,Marquette ,0.549
+2005,Drexel ,0.549
+2005,New Mexico ,0.549
+2005,Arkansas ,0.548
+2005,San Fransco ,0.547
+2005,Wash State ,0.546
+2005,TX Christian ,0.545
+2005,Providence ,0.543
+2005,Clemson ,0.543
+2005,Toledo ,0.542
+2005,Denver ,0.539
+2005,Oral Roberts ,0.539
+2005,Niagara ,0.539
+2005,Nebraska ,0.538
+2005,UNLV ,0.538
+2005,Air Force ,0.538
+2005,Temple ,0.538
+2005,NC-Wilmgton ,0.538
+2005,W Michigan ,0.537
+2005,Kansas St ,0.536
+2005,Bowling Grn ,0.536
+2005,Colorado ,0.535
+2005,VA Tech ,0.534
+2005,Oregon St ,0.532
+2005,Wyoming ,0.530
+2005,Tennessee ,0.529
+2005,Central FL ,0.529
+2005,Dayton ,0.528
+2005,CS Fullerton ,0.526
+2005,Ball State ,0.526
+2005,Cal St Nrdge ,0.526
+2005,Memphis ,0.525
+2005,USC ,0.524
+2005,Pepperdine ,0.522
+2005,Middle Tenn ,0.522
+2005,San Diego ,0.522
+2005,Florida St ,0.522
+2005,California ,0.522
+2005,Illinois St ,0.522
+2005,Seton Hall ,0.522
+2005,Princeton ,0.522
+2005,Xavier ,0.521
+2005,Rider ,0.521
+2005,E Kentucky ,0.521
+2005,NW State ,0.520
+2005,Hawaii ,0.520
+2005,Northwestern ,0.518
+2005,U Mass ,0.518
+2005,Santa Clara ,0.516
+2005,Chattanooga ,0.516
+2005,Rutgers ,0.516
+2005,LA Tech ,0.513
+2005,NC-Grnsboro ,0.513
+2005,S Methodist ,0.513
+2005,Auburn ,0.513
+2005,Richmond ,0.511
+2005,SE Louisiana ,0.510
+2005,Bradley ,0.510
+2005,Murray St ,0.509
+2005,Mississippi ,0.509
+2005,American ,0.509
+2005,Drake ,0.509
+2005,Coppin State ,0.509
+2005,WI-Grn Bay ,0.508
+2005,Fresno St ,0.508
+2005,Michigan ,0.508
+2005,Portland ,0.507
+2005,Col Charlestn ,0.507
+2005,Geo Mason ,0.507
+2005,Delaware St ,0.505
+2005,IL-Chicago ,0.501
+2005,Gard-Webb ,0.501
+2005,Montana ,0.500
+2005,Sam Hous St ,0.498
+2005,Georgia St ,0.498
+2005,St Johns ,0.496
+2005,Arkansas St ,0.496
+2005,TN State ,0.496
+2005,Lamar ,0.496
+2005,St Peters ,0.495
+2005,TN Tech ,0.494
+2005,IUPUI ,0.493
+2005,Loyola Mymt ,0.492
+2005,F Dickinson ,0.492
+2005,TX A&M-CC ,0.491
+2005,Wright State ,0.491
+2005,Maine ,0.491
+2005,UMKC ,0.490
+2005,Purdue ,0.490
+2005,Detroit ,0.489
+2005,Portland St ,0.488
+2005,UC Irvine ,0.487
+2005,Florida Intl ,0.487
+2005,Saint Louis ,0.487
+2005,N Illinois ,0.486
+2005,App State ,0.486
+2005,Fairfield ,0.486
+2005,Binghamton ,0.485
+2005,Hampton ,0.484
+2005,S Florida ,0.484
+2005,GA Southern ,0.483
+2005,Fordham ,0.483
+2005,Yale ,0.483
+2005,E Carolina ,0.482
+2005,Oakland ,0.482
+2005,Manhattan ,0.482
+2005,Valparaiso ,0.481
+2005,Iona ,0.480
+2005,Monmouth ,0.480
+2005,Harvard ,0.479
+2005,Albany ,0.479
+2005,North Texas ,0.479
+2005,Furman ,0.478
+2005,Indiana St ,0.477
+2005,Bham Southern ,0.477
+2005,San Diego St ,0.477
+2005,Belmont ,0.477
+2005,New Orleans ,0.475
+2005,SE Missouri ,0.475
+2005,St Fran (PA) ,0.474
+2005,Mercer ,0.474
+2005,TX-San Ant ,0.474
+2005,Loyola-Chi ,0.474
+2005,Georgia ,0.473
+2005,Cornell ,0.473
+2005,Austin Peay ,0.472
+2005,La Salle ,0.472
+2005,S Car State ,0.471
+2005,Florida A&M ,0.470
+2005,Lipscomb ,0.467
+2005,BYU ,0.466
+2005,Penn State ,0.465
+2005,Evansville ,0.465
+2005,Jacksonville ,0.464
+2005,Troy ,0.463
+2005,Wagner ,0.463
+2005,UCSB ,0.463
+2005,Liberty ,0.463
+2005,Rob Morris ,0.462
+2005,Weber State ,0.461
+2005,Samford ,0.460
+2005,Wofford ,0.459
+2005,Brown ,0.459
+2005,Fla Atlantic ,0.458
+2005,Charl South ,0.458
+2005,Delaware ,0.458
+2005,Boise State ,0.457
+2005,Stony Brook ,0.457
+2005,LIU-Brooklyn ,0.455
+2005,Marshall ,0.454
+2005,Grambling St ,0.454
+2005,Utah Val St ,0.454
+2005,Central Mich ,0.452
+2005,Lehigh ,0.452
+2005,Colgate ,0.451
+2005,S Mississippi ,0.451
+2005,Tulsa ,0.451
+2005,Tulane ,0.450
+2005,Butler ,0.450
+2005,Miss Val St ,0.449
+2005,McNeese St ,0.449
+2005,Colorado St ,0.448
+2005,S Alabama ,0.447
+2005,UC Davis ,0.446
+2005,Baylor ,0.446
+2005,NC-Asheville ,0.445
+2005,Alab A&M ,0.445
+2005,Central Conn ,0.444
+2005,Marist ,0.444
+2005,Chicago St ,0.444
+2005,Duquesne ,0.443
+2005,S Utah ,0.443
+2005,Dartmouth ,0.443
+2005,Stetson ,0.442
+2005,Montana St ,0.442
+2005,Lg Beach St ,0.441
+2005,N Hampshire ,0.441
+2005,E Michigan ,0.441
+2005,St Fran (NY) ,0.441
+2005,Alabama St ,0.441
+2005,Morgan St ,0.439
+2005,Texas State ,0.439
+2005,E Illinois ,0.438
+2005,Norfolk St ,0.438
+2005,Lafayette ,0.438
+2005,Jackson St ,0.437
+2005,Cleveland St ,0.435
+2005,TX-Arlington ,0.434
+2005,W Illinois ,0.434
+2005,Columbia ,0.433
+2005,San Jose St ,0.433
+2005,Sac State ,0.432
+2005,High Point ,0.432
+2005,Elon ,0.432
+2005,E Washingtn ,0.431
+2005,Radford ,0.429
+2005,Beth-Cook ,0.429
+2005,Canisius ,0.428
+2005,Coastal Car ,0.427
+2005,TX-Pan Am ,0.426
+2005,Maryland BC ,0.426
+2005,Wm & Mary ,0.426
+2005,Idaho ,0.425
+2005,Southern ,0.424
+2005,Morehead St ,0.423
+2005,UC Riverside ,0.421
+2005,N Mex State ,0.420
+2005,E Tenn St ,0.420
+2005,Ste F Austin ,0.420
+2005,N Arizona ,0.419
+2005,Citadel ,0.415
+2005,Siena ,0.414
+2005,N Colorado ,0.414
+2005,Quinnipiac ,0.412
+2005,Hartford ,0.412
+2005,Rhode Island ,0.411
+2005,Towson ,0.409
+2005,Navy ,0.407
+2005,TX Southern ,0.407
+2005,James Mad ,0.406
+2005,TN Martin ,0.397
+2005,IPFW ,0.395
+2005,Cal Poly ,0.394
+2005,W Carolina ,0.393
+2005,Idaho State ,0.388
+2005,Ark Pine Bl ,0.384
+2005,NC A&T ,0.383
+2005,St Bonavent ,0.382
+2005,Loyola-MD ,0.381
+2005,Mt St Marys ,0.381
+2005,VA Military ,0.380
+2005,LA Monroe ,0.379
+2005,Jksnville St ,0.376
+2005,Prairie View ,0.375
+2005,Campbell ,0.370
+2005,Youngs St ,0.367
+2005,Howard ,0.366
+2005,Centenary ,0.363
+2005,Alcorn State ,0.363
+2005,Sacred Hrt ,0.361
+2005,Nicholls St ,0.360
+2005,Army ,0.351
+2005,Savannah St ,0.340
+2005,Longwood ,0.340
+2005,Maryland ES ,0.337
+2006,Duke ,0.683
+2006,Villanova ,0.673
+2006,Connecticut ,0.653
+2006,Tennessee ,0.647
+2006,Memphis ,0.645
+2006,Ohio State ,0.645
+2006,Texas ,0.630
+2006,N Carolina ,0.629
+2006,Illinois ,0.629
+2006,Gonzaga ,0.627
+2006,LSU ,0.624
+2006,Pittsburgh ,0.622
+2006,Oklahoma ,0.621
+2006,Iowa ,0.620
+2006,UCLA ,0.620
+2006,Wisconsin ,0.610
+2006,Michigan St ,0.608
+2006,Arizona ,0.606
+2006,Missouri St ,0.603
+2006,Nevada ,0.603
+2006,Florida ,0.601
+2006,Syracuse ,0.601
+2006,NC-Wilmgton ,0.599
+2006,Wichita St ,0.599
+2006,N Iowa ,0.599
+2006,Marquette ,0.599
+2006,Geo Mason ,0.599
+2006,Georgetown ,0.598
+2006,S Illinois ,0.598
+2006,Hofstra ,0.596
+2006,Boston Col ,0.594
+2006,Geo Wshgtn ,0.594
+2006,Washington ,0.594
+2006,W Virginia ,0.594
+2006,Bradley ,0.594
+2006,Kentucky ,0.593
+2006,Kansas ,0.592
+2006,Indiana ,0.592
+2006,Cincinnati ,0.591
+2006,Creighton ,0.590
+2006,NC State ,0.589
+2006,UAB ,0.589
+2006,Maryland ,0.587
+2006,Arkansas ,0.587
+2006,St Josephs ,0.585
+2006,Michigan ,0.585
+2006,Alabama ,0.584
+2006,Texas A&M ,0.584
+2006,Bucknell ,0.582
+2006,Air Force ,0.580
+2006,WI-Milwkee ,0.578
+2006,W Kentucky ,0.578
+2006,Houston ,0.578
+2006,Colorado ,0.577
+2006,Utah State ,0.576
+2006,Seton Hall ,0.574
+2006,California ,0.573
+2006,Kent State ,0.571
+2006,San Diego St ,0.569
+2006,Montana ,0.569
+2006,Florida St ,0.568
+2006,Akron ,0.567
+2006,Iona ,0.566
+2006,LA Tech ,0.566
+2006,BYU ,0.565
+2006,S Alabama ,0.565
+2006,Murray St ,0.565
+2006,Vanderbilt ,0.565
+2006,NW State ,0.565
+2006,Old Dominion ,0.563
+2006,Louisville ,0.563
+2006,Temple ,0.562
+2006,Winthrop ,0.558
+2006,Virginia ,0.557
+2006,TX El Paso ,0.557
+2006,Rutgers ,0.557
+2006,S Carolina ,0.556
+2006,VCU ,0.556
+2006,Minnesota ,0.556
+2006,Clemson ,0.555
+2006,Miami (FL) ,0.552
+2006,Miami (OH) ,0.551
+2006,Butler ,0.551
+2006,Oklahoma St ,0.548
+2006,Xavier ,0.547
+2006,Manhattan ,0.547
+2006,UNLV ,0.547
+2006,Stanford ,0.546
+2006,DePaul ,0.546
+2006,Notre Dame ,0.543
+2006,Northeastrn ,0.543
+2006,Ohio ,0.542
+2006,Iowa State ,0.542
+2006,Pacific ,0.541
+2006,U Penn ,0.541
+2006,Northwestern ,0.541
+2006,Wake Forest ,0.541
+2006,N Mex State ,0.540
+2006,Hawaii ,0.540
+2006,Davidson ,0.538
+2006,La Salle ,0.537
+2006,Saint Louis ,0.537
+2006,Penn State ,0.537
+2006,Georgia ,0.535
+2006,Marist ,0.535
+2006,Samford ,0.535
+2006,Nebraska ,0.534
+2006,Kansas St ,0.534
+2006,Providence ,0.534
+2006,Charlotte ,0.531
+2006,Miss State ,0.531
+2006,Auburn ,0.530
+2006,Holy Cross ,0.529
+2006,Sam Hous St ,0.529
+2006,Belmont ,0.528
+2006,Middle Tenn ,0.528
+2006,USC ,0.527
+2006,Fresno St ,0.525
+2006,N Arizona ,0.525
+2006,New Mexico ,0.524
+2006,St Marys ,0.524
+2006,Delaware St ,0.524
+2006,Coastal Car ,0.523
+2006,Oral Roberts ,0.522
+2006,N Illinois ,0.521
+2006,Siena ,0.521
+2006,Albany ,0.520
+2006,Buffalo ,0.520
+2006,St Peters ,0.519
+2006,Drexel ,0.519
+2006,U Mass ,0.519
+2006,Fordham ,0.518
+2006,Texas Tech ,0.517
+2006,St Johns ,0.517
+2006,IL-Chicago ,0.516
+2006,TN Tech ,0.514
+2006,Missouri ,0.514
+2006,Loyola-Chi ,0.513
+2006,Lipscomb ,0.512
+2006,LA Lafayette ,0.512
+2006,Oregon ,0.512
+2006,VA Tech ,0.511
+2006,Southern ,0.511
+2006,E Washingtn ,0.511
+2006,Monmouth ,0.510
+2006,San Diego ,0.509
+2006,F Dickinson ,0.509
+2006,Loyola Mymt ,0.507
+2006,Utah ,0.507
+2006,Lehigh ,0.507
+2006,Colorado St ,0.505
+2006,Rhode Island ,0.505
+2006,Mississippi ,0.504
+2006,GA Tech ,0.503
+2006,Gard-Webb ,0.502
+2006,Austin Peay ,0.501
+2006,IUPUI ,0.501
+2006,Sac State ,0.500
+2006,Baylor ,0.500
+2006,Bham Southern ,0.500
+2006,GA Southern ,0.500
+2006,Toledo ,0.500
+2006,Indiana St ,0.499
+2006,UC Irvine ,0.498
+2006,Lg Beach St ,0.497
+2006,High Point ,0.496
+2006,Central Conn ,0.495
+2006,Chattanooga ,0.494
+2006,Wash State ,0.493
+2006,Loyola-MD ,0.492
+2006,Purdue ,0.491
+2006,Elon ,0.490
+2006,Denver ,0.490
+2006,Wyoming ,0.489
+2006,Boise State ,0.489
+2006,Oregon St ,0.489
+2006,Drake ,0.488
+2006,Arizona St ,0.488
+2006,Detroit ,0.488
+2006,Wright State ,0.487
+2006,Jksnville St ,0.486
+2006,Dayton ,0.484
+2006,Santa Clara ,0.484
+2006,San Fransco ,0.483
+2006,Col Charlestn ,0.483
+2006,WI-Grn Bay ,0.482
+2006,Binghamton ,0.482
+2006,Central FL ,0.481
+2006,SE Louisiana ,0.480
+2006,Valparaiso ,0.479
+2006,Radford ,0.479
+2006,Lamar ,0.479
+2006,Evansville ,0.478
+2006,E Kentucky ,0.476
+2006,W Michigan ,0.476
+2006,Princeton ,0.475
+2006,Portland St ,0.475
+2006,TX-Arlington ,0.474
+2006,McNeese St ,0.473
+2006,TX A&M-CC ,0.473
+2006,Tulsa ,0.473
+2006,Yale ,0.473
+2006,North Texas ,0.473
+2006,American ,0.472
+2006,Niagara ,0.471
+2006,Richmond ,0.471
+2006,Rice ,0.470
+2006,TN State ,0.470
+2006,Cornell ,0.469
+2006,Boston U ,0.469
+2006,Fla Atlantic ,0.468
+2006,Harvard ,0.468
+2006,Tulane ,0.468
+2006,Idaho State ,0.468
+2006,Vermont ,0.467
+2006,Coppin State ,0.467
+2006,Rob Morris ,0.467
+2006,AR Lit Rock ,0.467
+2006,UCSB ,0.466
+2006,N Dakota St ,0.465
+2006,Towson ,0.465
+2006,S Car State ,0.464
+2006,Marshall ,0.464
+2006,TN Martin ,0.463
+2006,E Tenn St ,0.463
+2006,Chicago St ,0.463
+2006,Furman ,0.462
+2006,Fairfield ,0.462
+2006,Arkansas St ,0.461
+2006,Mt St Marys ,0.461
+2006,App State ,0.460
+2006,Illinois St ,0.460
+2006,Charl South ,0.460
+2006,CS Fullerton ,0.460
+2006,Wagner ,0.460
+2006,S Florida ,0.459
+2006,Delaware ,0.457
+2006,NC-Asheville ,0.456
+2006,Portland ,0.456
+2006,Ste F Austin ,0.455
+2006,Montana St ,0.455
+2006,Jackson St ,0.454
+2006,Georgia St ,0.454
+2006,S Mississippi ,0.454
+2006,Troy ,0.454
+2006,Cleveland St ,0.453
+2006,Norfolk St ,0.453
+2006,Rider ,0.452
+2006,Pepperdine ,0.452
+2006,N Hampshire ,0.451
+2006,Kennesaw St ,0.450
+2006,New Orleans ,0.449
+2006,Ball State ,0.449
+2006,Florida A&M ,0.448
+2006,Canisius ,0.448
+2006,Bowling Grn ,0.448
+2006,Alab A&M ,0.447
+2006,TX-San Ant ,0.447
+2006,LA Monroe ,0.447
+2006,Quinnipiac ,0.446
+2006,Lafayette ,0.444
+2006,Weber State ,0.443
+2006,S Methodist ,0.443
+2006,Sacred Hrt ,0.443
+2006,UMKC ,0.443
+2006,Stetson ,0.442
+2006,San Jose St ,0.442
+2006,Wm & Mary ,0.441
+2006,W Carolina ,0.441
+2006,Hartford ,0.439
+2006,St Fran (NY) ,0.438
+2006,Alabama St ,0.437
+2006,Grambling St ,0.436
+2006,Beth-Cook ,0.435
+2006,LIU-Brooklyn ,0.435
+2006,Brown ,0.435
+2006,Florida Intl ,0.433
+2006,S Dakota St ,0.433
+2006,Cal Poly ,0.431
+2006,Utah Val St ,0.430
+2006,NC-Grnsboro ,0.430
+2006,Maine ,0.430
+2006,Cal St Nrdge ,0.429
+2006,TX Christian ,0.427
+2006,Oakland ,0.427
+2006,Colgate ,0.426
+2006,Wofford ,0.425
+2006,St Bonavent ,0.423
+2006,IPFW ,0.421
+2006,Columbia ,0.421
+2006,Campbell ,0.419
+2006,Nicholls St ,0.417
+2006,Miss Val St ,0.415
+2006,Navy ,0.415
+2006,Hampton ,0.415
+2006,UC Davis ,0.414
+2006,Ark Pine Bl ,0.414
+2006,Maryland BC ,0.414
+2006,James Mad ,0.413
+2006,E Carolina ,0.412
+2006,Idaho ,0.410
+2006,Alcorn State ,0.406
+2006,S Utah ,0.405
+2006,Mercer ,0.404
+2006,Youngs St ,0.404
+2006,E Michigan ,0.404
+2006,TX Southern ,0.402
+2006,Duquesne ,0.401
+2006,E Illinois ,0.397
+2006,Stony Brook ,0.397
+2006,Dartmouth ,0.396
+2006,UC Riverside ,0.393
+2006,SE Missouri ,0.391
+2006,Longwood ,0.390
+2006,Central Mich ,0.387
+2006,Citadel ,0.387
+2006,Liberty ,0.386
+2006,VA Military ,0.383
+2006,W Illinois ,0.383
+2006,Maryland ES ,0.379
+2006,Army ,0.377
+2006,Morehead St ,0.377
+2006,St Fran (PA) ,0.375
+2006,Centenary ,0.373
+2006,NC A&T ,0.372
+2006,Howard ,0.371
+2006,Texas State ,0.370
+2006,N Colorado ,0.370
+2006,Morgan St ,0.364
+2006,TX-Pan Am ,0.363
+2006,Jacksonville ,0.352
+2006,N Florida ,0.342
+2006,Savannah St ,0.332
+2006,Prairie View ,0.330
+2007,Ohio State ,0.663
+2007,UCLA ,0.658
+2007,N Carolina ,0.657
+2007,Pittsburgh ,0.650
+2007,Wisconsin ,0.647
+2007,S Illinois ,0.641
+2007,Florida ,0.637
+2007,Memphis ,0.636
+2007,UNLV ,0.631
+2007,Georgetown ,0.631
+2007,Tennessee ,0.628
+2007,Kentucky ,0.626
+2007,Kansas ,0.625
+2007,Arizona ,0.624
+2007,Texas A&M ,0.621
+2007,Duke ,0.619
+2007,Maryland ,0.618
+2007,BYU ,0.615
+2007,Villanova ,0.614
+2007,Creighton ,0.613
+2007,Oregon ,0.606
+2007,Michigan St ,0.606
+2007,Marquette ,0.605
+2007,Nevada ,0.605
+2007,VA Tech ,0.603
+2007,Texas ,0.600
+2007,Butler ,0.598
+2007,Wash State ,0.598
+2007,Boston Col ,0.598
+2007,Illinois ,0.596
+2007,Air Force ,0.595
+2007,Xavier ,0.595
+2007,Notre Dame ,0.594
+2007,Missouri St ,0.591
+2007,Louisville ,0.590
+2007,Bradley ,0.590
+2007,Indiana ,0.590
+2007,Arkansas ,0.590
+2007,Drexel ,0.589
+2007,Old Dominion ,0.588
+2007,USC ,0.588
+2007,Purdue ,0.588
+2007,Florida St ,0.588
+2007,Utah State ,0.586
+2007,Oklahoma St ,0.586
+2007,Clemson ,0.585
+2007,VCU ,0.584
+2007,Alabama ,0.583
+2007,Vanderbilt ,0.583
+2007,Texas Tech ,0.583
+2007,Davidson ,0.582
+2007,Syracuse ,0.582
+2007,GA Tech ,0.581
+2007,Virginia ,0.580
+2007,Michigan ,0.580
+2007,Kansas St ,0.578
+2007,Mississippi ,0.578
+2007,Miss State ,0.576
+2007,W Virginia ,0.576
+2007,Gonzaga ,0.575
+2007,U Mass ,0.574
+2007,App State ,0.574
+2007,Akron ,0.574
+2007,Holy Cross ,0.573
+2007,San Diego St ,0.572
+2007,Stanford ,0.570
+2007,Georgia ,0.569
+2007,DePaul ,0.568
+2007,Winthrop ,0.566
+2007,Wright State ,0.562
+2007,N Mex State ,0.562
+2007,Geo Wshgtn ,0.562
+2007,Hofstra ,0.561
+2007,Saint Louis ,0.559
+2007,Dayton ,0.558
+2007,Providence ,0.557
+2007,Vermont ,0.557
+2007,Bucknell ,0.555
+2007,Washington ,0.554
+2007,California ,0.554
+2007,N Iowa ,0.553
+2007,TX A&M-CC ,0.552
+2007,Kent State ,0.552
+2007,Fresno St ,0.552
+2007,LSU ,0.551
+2007,Houston ,0.551
+2007,Oral Roberts ,0.551
+2007,Lg Beach St ,0.550
+2007,U Penn ,0.550
+2007,Missouri ,0.548
+2007,Albany ,0.548
+2007,Toledo ,0.546
+2007,Iowa ,0.545
+2007,St Josephs ,0.543
+2007,W Kentucky ,0.542
+2007,Hawaii ,0.542
+2007,Santa Clara ,0.542
+2007,NC State ,0.541
+2007,Wichita St ,0.541
+2007,Oklahoma ,0.540
+2007,Nebraska ,0.540
+2007,Loyola-Chi ,0.539
+2007,Miami (OH) ,0.538
+2007,Rhode Island ,0.537
+2007,Marist ,0.536
+2007,Colorado St ,0.535
+2007,Ohio ,0.535
+2007,S Carolina ,0.534
+2007,Connecticut ,0.533
+2007,Auburn ,0.532
+2007,Boise State ,0.532
+2007,Delaware St ,0.531
+2007,Belmont ,0.530
+2007,Fordham ,0.530
+2007,Drake ,0.530
+2007,Col Charlestn ,0.530
+2007,Sam Hous St ,0.530
+2007,Tulsa ,0.528
+2007,Austin Peay ,0.527
+2007,Central FL ,0.526
+2007,Wyoming ,0.525
+2007,Geo Mason ,0.525
+2007,Wake Forest ,0.525
+2007,E Tenn St ,0.524
+2007,Oakland ,0.522
+2007,S Alabama ,0.518
+2007,E Kentucky ,0.517
+2007,S Mississippi ,0.516
+2007,Siena ,0.516
+2007,St Johns ,0.516
+2007,Utah Val St ,0.516
+2007,Utah ,0.514
+2007,Evansville ,0.513
+2007,UAB ,0.512
+2007,Niagara ,0.511
+2007,North Texas ,0.510
+2007,Cal Poly ,0.510
+2007,Baylor ,0.510
+2007,Illinois St ,0.509
+2007,Iowa State ,0.509
+2007,Indiana St ,0.509
+2007,Yale ,0.508
+2007,Weber State ,0.507
+2007,TN Tech ,0.506
+2007,Charlotte ,0.504
+2007,Central Conn ,0.503
+2007,Tulane ,0.503
+2007,CS Fullerton ,0.503
+2007,W Michigan ,0.502
+2007,N Arizona ,0.502
+2007,Sacred Hrt ,0.501
+2007,UCSB ,0.500
+2007,St Marys ,0.499
+2007,Seton Hall ,0.498
+2007,Fla Atlantic ,0.498
+2007,Miami (FL) ,0.498
+2007,Towson ,0.498
+2007,IL-Chicago ,0.497
+2007,Rice ,0.497
+2007,N Dakota St ,0.497
+2007,Middle Tenn ,0.495
+2007,San Fransco ,0.494
+2007,Arkansas St ,0.494
+2007,Valparaiso ,0.493
+2007,New Mexico ,0.493
+2007,Marshall ,0.493
+2007,NW State ,0.493
+2007,Cornell ,0.491
+2007,WI-Grn Bay ,0.491
+2007,Youngs St ,0.490
+2007,Northwestern ,0.490
+2007,Samford ,0.489
+2007,UC Irvine ,0.489
+2007,Cincinnati ,0.489
+2007,Loyola-MD ,0.487
+2007,American ,0.487
+2007,Lipscomb ,0.487
+2007,San Diego ,0.486
+2007,Murray St ,0.486
+2007,TX Christian ,0.486
+2007,Jackson St ,0.486
+2007,Temple ,0.485
+2007,Florida A&M ,0.485
+2007,Northeastrn ,0.484
+2007,High Point ,0.482
+2007,Minnesota ,0.481
+2007,E Washingtn ,0.481
+2007,Loyola Mymt ,0.481
+2007,Miss Val St ,0.480
+2007,LA Tech ,0.480
+2007,Harvard ,0.480
+2007,Idaho State ,0.480
+2007,S Florida ,0.479
+2007,Detroit ,0.479
+2007,Portland St ,0.479
+2007,Furman ,0.478
+2007,Penn State ,0.478
+2007,Wm & Mary ,0.478
+2007,Fairfield ,0.478
+2007,Oregon St ,0.477
+2007,Rider ,0.477
+2007,LA Monroe ,0.476
+2007,Jacksonville ,0.476
+2007,Columbia ,0.476
+2007,Pacific ,0.475
+2007,Rob Morris ,0.473
+2007,S Methodist ,0.473
+2007,NC-Grnsboro ,0.473
+2007,TX El Paso ,0.471
+2007,Boston U ,0.471
+2007,S Utah ,0.470
+2007,Chicago St ,0.470
+2007,IUPUI ,0.469
+2007,Maryland BC ,0.468
+2007,Rutgers ,0.466
+2007,Lamar ,0.466
+2007,New Orleans ,0.466
+2007,Chattanooga ,0.465
+2007,Duquesne ,0.465
+2007,Montana ,0.464
+2007,Hampton ,0.464
+2007,Arizona St ,0.464
+2007,Troy ,0.463
+2007,Hartford ,0.463
+2007,Central Mich ,0.462
+2007,Army ,0.462
+2007,Brown ,0.462
+2007,AR Lit Rock ,0.461
+2007,SE Louisiana ,0.461
+2007,Manhattan ,0.460
+2007,Navy ,0.460
+2007,Georgia St ,0.459
+2007,F Dickinson ,0.457
+2007,McNeese St ,0.455
+2007,Colorado ,0.454
+2007,Buffalo ,0.454
+2007,WI-Milwkee ,0.454
+2007,E Michigan ,0.454
+2007,Quinnipiac ,0.454
+2007,Lehigh ,0.452
+2007,GA Southern ,0.452
+2007,IPFW ,0.449
+2007,Bowling Grn ,0.449
+2007,Coppin State ,0.449
+2007,W Carolina ,0.448
+2007,Ste F Austin ,0.448
+2007,Maine ,0.447
+2007,Canisius ,0.447
+2007,Cal St Nrdge ,0.446
+2007,NC-Asheville ,0.446
+2007,Florida Intl ,0.446
+2007,San Jose St ,0.446
+2007,Binghamton ,0.444
+2007,TX-Arlington ,0.443
+2007,Dartmouth ,0.443
+2007,Mt St Marys ,0.443
+2007,N Hampshire ,0.442
+2007,UMKC ,0.442
+2007,Monmouth ,0.441
+2007,TN State ,0.441
+2007,Colgate ,0.440
+2007,NC-Wilmgton ,0.439
+2007,Pepperdine ,0.437
+2007,Cleveland St ,0.437
+2007,Gard-Webb ,0.437
+2007,Princeton ,0.436
+2007,La Salle ,0.435
+2007,Ark Pine Bl ,0.435
+2007,LA Lafayette ,0.434
+2007,Coastal Car ,0.434
+2007,Richmond ,0.433
+2007,NC A&T ,0.433
+2007,Kennesaw St ,0.432
+2007,Campbell ,0.431
+2007,TX Southern ,0.430
+2007,Ball State ,0.430
+2007,Mercer ,0.430
+2007,St Bonavent ,0.429
+2007,Portland ,0.429
+2007,Savannah St ,0.428
+2007,Stony Brook ,0.426
+2007,St Fran (NY) ,0.425
+2007,Lafayette ,0.425
+2007,Liberty ,0.425
+2007,Norfolk St ,0.425
+2007,Montana St ,0.424
+2007,Stetson ,0.424
+2007,Grambling St ,0.424
+2007,Southern ,0.423
+2007,Centenary ,0.420
+2007,Nicholls St ,0.420
+2007,SE Missouri ,0.420
+2007,S Car State ,0.419
+2007,TX-Pan Am ,0.419
+2007,Morehead St ,0.418
+2007,Wofford ,0.418
+2007,Wagner ,0.417
+2007,Elon ,0.417
+2007,VA Military ,0.416
+2007,James Mad ,0.415
+2007,N Illinois ,0.414
+2007,Morgan St ,0.413
+2007,Sac State ,0.413
+2007,Wins-Salem ,0.410
+2007,Idaho ,0.409
+2007,Delaware ,0.409
+2007,Citadel ,0.406
+2007,Longwood ,0.405
+2007,E Illinois ,0.404
+2007,LIU-Brooklyn ,0.403
+2007,Central Ark ,0.402
+2007,Alabama St ,0.399
+2007,E Carolina ,0.399
+2007,UC Davis ,0.398
+2007,Jksnville St ,0.398
+2007,UC Riverside ,0.397
+2007,TN Martin ,0.390
+2007,TX-San Ant ,0.390
+2007,Radford ,0.389
+2007,Alcorn State ,0.389
+2007,St Fran (PA) ,0.384
+2007,Texas State ,0.382
+2007,Beth-Cook ,0.381
+2007,Howard ,0.381
+2007,Prairie View ,0.379
+2007,Iona ,0.378
+2007,W Illinois ,0.372
+2007,S Dakota St ,0.371
+2007,St Peters ,0.371
+2007,Charl South ,0.365
+2007,NJIT ,0.364
+2007,Maryland ES ,0.352
+2007,Alab A&M ,0.351
+2007,N Florida ,0.350
+2007,Denver ,0.350
+2007,N Colorado ,0.342
+2008,Tennessee ,0.686
+2008,N Carolina ,0.672
+2008,Memphis ,0.666
+2008,Duke ,0.653
+2008,Texas ,0.653
+2008,UCLA ,0.646
+2008,Georgetown ,0.645
+2008,Kansas ,0.642
+2008,Xavier ,0.638
+2008,Vanderbilt ,0.634
+2008,Louisville ,0.630
+2008,Drake ,0.629
+2008,Wisconsin ,0.625
+2008,Connecticut ,0.620
+2008,Michigan St ,0.618
+2008,Stanford ,0.611
+2008,Indiana ,0.611
+2008,Butler ,0.610
+2008,Notre Dame ,0.608
+2008,Wash State ,0.606
+2008,Clemson ,0.604
+2008,Marquette ,0.602
+2008,BYU ,0.601
+2008,S Alabama ,0.599
+2008,Oklahoma ,0.599
+2008,Pittsburgh ,0.599
+2008,Kent State ,0.598
+2008,Gonzaga ,0.598
+2008,UNLV ,0.596
+2008,Arizona ,0.593
+2008,Miami (FL) ,0.593
+2008,Illinois St ,0.590
+2008,Dayton ,0.590
+2008,USC ,0.590
+2008,Davidson ,0.589
+2008,W Virginia ,0.589
+2008,Purdue ,0.589
+2008,St Marys ,0.588
+2008,Baylor ,0.588
+2008,Miss State ,0.587
+2008,U Mass ,0.586
+2008,Kansas St ,0.586
+2008,Arkansas ,0.584
+2008,Mississippi ,0.583
+2008,Syracuse ,0.580
+2008,W Kentucky ,0.579
+2008,Texas A&M ,0.578
+2008,Ohio State ,0.578
+2008,Oregon ,0.578
+2008,Kentucky ,0.578
+2008,UAB ,0.578
+2008,Creighton ,0.574
+2008,New Mexico ,0.573
+2008,St Josephs ,0.572
+2008,Villanova ,0.570
+2008,VCU ,0.569
+2008,VA Tech ,0.567
+2008,Ste F Austin ,0.567
+2008,Temple ,0.566
+2008,Florida St ,0.566
+2008,S Illinois ,0.565
+2008,Texas Tech ,0.565
+2008,Oral Roberts ,0.564
+2008,Rhode Island ,0.561
+2008,Maryland ,0.560
+2008,Geo Mason ,0.560
+2008,Houston ,0.560
+2008,Florida ,0.560
+2008,Cornell ,0.560
+2008,Ohio ,0.559
+2008,Cleveland St ,0.559
+2008,Utah State ,0.557
+2008,GA Tech ,0.556
+2008,Arizona St ,0.555
+2008,IUPUI ,0.555
+2008,Nevada ,0.554
+2008,Miami (OH) ,0.553
+2008,Siena ,0.552
+2008,UCSB ,0.552
+2008,Belmont ,0.550
+2008,San Diego St ,0.550
+2008,Oklahoma St ,0.549
+2008,Wright State ,0.549
+2008,Akron ,0.548
+2008,Austin Peay ,0.548
+2008,Charlotte ,0.548
+2008,Wake Forest ,0.545
+2008,Maryland BC ,0.544
+2008,Sam Hous St ,0.543
+2008,CS Fullerton ,0.542
+2008,American ,0.542
+2008,NC State ,0.541
+2008,California ,0.541
+2008,Valparaiso ,0.540
+2008,Providence ,0.538
+2008,Portland St ,0.538
+2008,San Diego ,0.538
+2008,Nebraska ,0.536
+2008,TX El Paso ,0.536
+2008,Winthrop ,0.536
+2008,Minnesota ,0.536
+2008,Seton Hall ,0.536
+2008,Boise State ,0.536
+2008,Bradley ,0.535
+2008,Missouri ,0.534
+2008,Brown ,0.534
+2008,Cal St Nrdge ,0.534
+2008,Virginia ,0.534
+2008,Washington ,0.533
+2008,Marist ,0.533
+2008,Utah ,0.532
+2008,Rider ,0.532
+2008,Duquesne ,0.532
+2008,Cincinnati ,0.532
+2008,Richmond ,0.531
+2008,S Mississippi ,0.530
+2008,Niagara ,0.530
+2008,W Michigan ,0.528
+2008,Alabama ,0.527
+2008,Wagner ,0.526
+2008,N Mex State ,0.526
+2008,Saint Louis ,0.525
+2008,Missouri St ,0.525
+2008,Middle Tenn ,0.525
+2008,Pacific ,0.525
+2008,Rob Morris ,0.524
+2008,N Iowa ,0.524
+2008,Morgan St ,0.524
+2008,Indiana St ,0.524
+2008,Old Dominion ,0.524
+2008,NC-Grnsboro ,0.523
+2008,Tulsa ,0.523
+2008,Marshall ,0.523
+2008,NC-Wilmgton ,0.522
+2008,Illinois ,0.522
+2008,IL-Chicago ,0.520
+2008,GA Southern ,0.520
+2008,Boston Col ,0.519
+2008,Chattanooga ,0.518
+2008,Loyola-MD ,0.518
+2008,E Tenn St ,0.518
+2008,S Carolina ,0.517
+2008,North Texas ,0.517
+2008,Hampton ,0.516
+2008,NC-Asheville ,0.516
+2008,Penn State ,0.516
+2008,Lamar ,0.515
+2008,N Arizona ,0.515
+2008,Georgia ,0.513
+2008,WI-Grn Bay ,0.513
+2008,Holy Cross ,0.512
+2008,St Johns ,0.510
+2008,Auburn ,0.510
+2008,Wm & Mary ,0.510
+2008,DePaul ,0.510
+2008,App State ,0.507
+2008,Jacksonville ,0.506
+2008,Sacred Hrt ,0.506
+2008,Central FL ,0.506
+2008,LSU ,0.506
+2008,New Orleans ,0.502
+2008,Fordham ,0.502
+2008,La Salle ,0.501
+2008,Air Force ,0.500
+2008,Colorado ,0.499
+2008,Mt St Marys ,0.499
+2008,S Florida ,0.499
+2008,Iowa State ,0.498
+2008,Oakland ,0.498
+2008,Northeastrn ,0.498
+2008,Colgate ,0.497
+2008,Lafayette ,0.497
+2008,Fairfield ,0.496
+2008,AR Lit Rock ,0.496
+2008,Tulane ,0.496
+2008,LA Lafayette ,0.495
+2008,WI-Milwkee ,0.495
+2008,TX-Arlington ,0.495
+2008,Delaware ,0.494
+2008,Hartford ,0.494
+2008,Michigan ,0.492
+2008,Yale ,0.490
+2008,Iowa ,0.490
+2008,Central Mich ,0.490
+2008,UC Irvine ,0.488
+2008,Geo Wshgtn ,0.486
+2008,SE Louisiana ,0.485
+2008,Santa Clara ,0.485
+2008,Weber State ,0.483
+2008,Vermont ,0.481
+2008,Bowling Grn ,0.481
+2008,Quinnipiac ,0.480
+2008,Alabama St ,0.479
+2008,N Dakota St ,0.478
+2008,Wofford ,0.478
+2008,Murray St ,0.478
+2008,Toledo ,0.477
+2008,Col Charlestn ,0.477
+2008,Cal Poly ,0.477
+2008,Wichita St ,0.476
+2008,Gard-Webb ,0.476
+2008,Pepperdine ,0.476
+2008,TX Christian ,0.475
+2008,LIU-Brooklyn ,0.475
+2008,Wyoming ,0.475
+2008,Bucknell ,0.475
+2008,Albany ,0.473
+2008,Rutgers ,0.473
+2008,TN Martin ,0.473
+2008,Central Conn ,0.473
+2008,Chicago St ,0.470
+2008,Delaware St ,0.470
+2008,TN State ,0.469
+2008,Elon ,0.469
+2008,Lipscomb ,0.469
+2008,Army ,0.469
+2008,Northwestern ,0.469
+2008,NC A&T ,0.468
+2008,Navy ,0.468
+2008,IPFW ,0.468
+2008,James Mad ,0.467
+2008,Loyola-Chi ,0.466
+2008,NW State ,0.465
+2008,Columbia ,0.465
+2008,Iona ,0.464
+2008,Youngs St ,0.464
+2008,McNeese St ,0.464
+2008,TX-San Ant ,0.463
+2008,Morehead St ,0.462
+2008,Montana St ,0.461
+2008,Towson ,0.461
+2008,High Point ,0.461
+2008,E Michigan ,0.461
+2008,Fla Atlantic ,0.460
+2008,Montana ,0.460
+2008,Fresno St ,0.459
+2008,S Utah ,0.459
+2008,Hofstra ,0.459
+2008,Boston U ,0.458
+2008,San Jose St ,0.458
+2008,Troy ,0.457
+2008,Lehigh ,0.457
+2008,Binghamton ,0.455
+2008,Florida A&M ,0.454
+2008,Utah Val St ,0.454
+2008,Miss Val St ,0.454
+2008,Nicholls St ,0.453
+2008,Drexel ,0.453
+2008,Texas State ,0.453
+2008,E Carolina ,0.452
+2008,LA Monroe ,0.450
+2008,Evansville ,0.449
+2008,Idaho State ,0.448
+2008,E Kentucky ,0.448
+2008,Savannah St ,0.448
+2008,Stetson ,0.448
+2008,Liberty ,0.447
+2008,Norfolk St ,0.446
+2008,Florida Intl ,0.445
+2008,TX A&M-CC ,0.444
+2008,Samford ,0.443
+2008,St Bonavent ,0.443
+2008,S Methodist ,0.442
+2008,Oregon St ,0.441
+2008,Buffalo ,0.441
+2008,U Penn ,0.440
+2008,Coppin State ,0.440
+2008,W Illinois ,0.438
+2008,San Fransco ,0.438
+2008,Denver ,0.438
+2008,Manhattan ,0.436
+2008,VA Military ,0.435
+2008,Colorado St ,0.435
+2008,N Colorado ,0.434
+2008,Coastal Car ,0.434
+2008,Hawaii ,0.432
+2008,Central Ark ,0.432
+2008,Georgia St ,0.431
+2008,TX-Pan Am ,0.430
+2008,TN Tech ,0.430
+2008,Centenary ,0.430
+2008,Jackson St ,0.430
+2008,F Dickinson ,0.429
+2008,E Washingtn ,0.429
+2008,Alab A&M ,0.428
+2008,Detroit ,0.428
+2008,N Illinois ,0.427
+2008,UMKC ,0.427
+2008,S Car State ,0.425
+2008,Arkansas St ,0.425
+2008,Fla Gulf Cst ,0.424
+2008,Ball State ,0.424
+2008,NC Central ,0.422
+2008,Monmouth ,0.421
+2008,Southern ,0.421
+2008,W Carolina ,0.420
+2008,Rice ,0.419
+2008,SE Missouri ,0.418
+2008,UC Riverside ,0.417
+2008,Idaho ,0.416
+2008,Portland ,0.415
+2008,Dartmouth ,0.415
+2008,Wins-Salem ,0.414
+2008,Furman ,0.412
+2008,SC Upstate ,0.411
+2008,N Hampshire ,0.411
+2008,UC Davis ,0.411
+2008,Harvard ,0.409
+2008,Loyola Mymt ,0.408
+2008,Radford ,0.407
+2008,Campbell ,0.405
+2008,St Fran (NY) ,0.403
+2008,St Fran (PA) ,0.401
+2008,St Peters ,0.401
+2008,Mercer ,0.401
+2008,Ark Pine Bl ,0.401
+2008,CS Bakersfld ,0.400
+2008,Canisius ,0.399
+2008,Beth-Cook ,0.399
+2008,TX Southern ,0.394
+2008,Lg Beach St ,0.394
+2008,Prairie View ,0.393
+2008,Longwood ,0.392
+2008,LA Tech ,0.391
+2008,Kennesaw St ,0.390
+2008,Stony Brook ,0.390
+2008,Princeton ,0.390
+2008,Maine ,0.389
+2008,Charl South ,0.389
+2008,Grambling St ,0.388
+2008,S Dakota St ,0.388
+2008,Howard ,0.385
+2008,Presbyterian ,0.382
+2008,Citadel ,0.370
+2008,Sac State ,0.366
+2008,E Illinois ,0.363
+2008,Alcorn State ,0.361
+2008,Maryland ES ,0.354
+2008,Jksnville St ,0.351
+2008,N Florida ,0.348
+2008,NJIT ,0.327
+2009,Pittsburgh ,0.676
+2009,N Carolina ,0.662
+2009,Duke ,0.661
+2009,Connecticut ,0.652
+2009,Oklahoma ,0.652
+2009,Michigan St ,0.647
+2009,Memphis ,0.641
+2009,Kansas ,0.640
+2009,Louisville ,0.637
+2009,Wake Forest ,0.628
+2009,Washington ,0.628
+2009,Utah ,0.627
+2009,Missouri ,0.627
+2009,Villanova ,0.625
+2009,Xavier ,0.624
+2009,Florida St ,0.621
+2009,Butler ,0.618
+2009,Clemson ,0.616
+2009,Siena ,0.616
+2009,Syracuse ,0.615
+2009,Illinois ,0.614
+2009,BYU ,0.612
+2009,Dayton ,0.610
+2009,Tennessee ,0.609
+2009,Gonzaga ,0.608
+2009,Oklahoma St ,0.607
+2009,Utah State ,0.605
+2009,W Virginia ,0.604
+2009,Marquette ,0.604
+2009,Texas A&M ,0.604
+2009,UCLA ,0.603
+2009,Arizona St ,0.598
+2009,California ,0.598
+2009,Purdue ,0.598
+2009,Ohio State ,0.596
+2009,LSU ,0.595
+2009,Texas ,0.594
+2009,Wisconsin ,0.593
+2009,Creighton ,0.592
+2009,Temple ,0.591
+2009,Minnesota ,0.591
+2009,Michigan ,0.589
+2009,UAB ,0.587
+2009,San Diego St ,0.584
+2009,St Marys ,0.582
+2009,W Kentucky ,0.581
+2009,Georgetown ,0.581
+2009,Florida ,0.581
+2009,VCU ,0.580
+2009,Illinois St ,0.579
+2009,Miami (FL) ,0.577
+2009,Geo Mason ,0.577
+2009,S Carolina ,0.577
+2009,Niagara ,0.576
+2009,Arizona ,0.576
+2009,N Iowa ,0.575
+2009,UNLV ,0.575
+2009,Boston Col ,0.574
+2009,New Mexico ,0.574
+2009,USC ,0.572
+2009,Tulsa ,0.571
+2009,VA Tech ,0.569
+2009,Penn State ,0.569
+2009,Rhode Island ,0.568
+2009,Cleveland St ,0.568
+2009,Auburn ,0.568
+2009,Maryland ,0.567
+2009,Davidson ,0.565
+2009,Nebraska ,0.563
+2009,Northwestern ,0.562
+2009,Providence ,0.562
+2009,Baylor ,0.560
+2009,Notre Dame ,0.560
+2009,WI-Grn Bay ,0.560
+2009,Cincinnati ,0.559
+2009,Kansas St ,0.557
+2009,Miami (OH) ,0.555
+2009,Miss State ,0.554
+2009,TX El Paso ,0.554
+2009,American ,0.553
+2009,Kentucky ,0.553
+2009,Mississippi ,0.552
+2009,Nevada ,0.551
+2009,Vanderbilt ,0.546
+2009,Wash State ,0.545
+2009,Duquesne ,0.545
+2009,Weber State ,0.544
+2009,Ste F Austin ,0.543
+2009,Binghamton ,0.543
+2009,Northeastrn ,0.542
+2009,Evansville ,0.541
+2009,AR Lit Rock ,0.540
+2009,N Dakota St ,0.540
+2009,Wright State ,0.539
+2009,Bradley ,0.539
+2009,Houston ,0.539
+2009,Fairfield ,0.539
+2009,Buffalo ,0.538
+2009,Seton Hall ,0.538
+2009,St Josephs ,0.538
+2009,Hofstra ,0.537
+2009,Vermont ,0.537
+2009,Boise State ,0.536
+2009,Stanford ,0.535
+2009,NC State ,0.535
+2009,Col Charlestn ,0.534
+2009,Old Dominion ,0.534
+2009,La Salle ,0.534
+2009,Virginia ,0.533
+2009,Alabama ,0.529
+2009,Iowa ,0.529
+2009,Wyoming ,0.528
+2009,Mt St Marys ,0.527
+2009,Cornell ,0.526
+2009,Oakland ,0.526
+2009,Rob Morris ,0.526
+2009,E Tenn St ,0.525
+2009,Portland ,0.523
+2009,Akron ,0.523
+2009,Idaho ,0.522
+2009,Portland St ,0.522
+2009,N Mex State ,0.522
+2009,North Texas ,0.521
+2009,Belmont ,0.519
+2009,Rider ,0.519
+2009,Radford ,0.518
+2009,Saint Louis ,0.516
+2009,Texas Tech ,0.516
+2009,Richmond ,0.515
+2009,VA Military ,0.515
+2009,Drexel ,0.515
+2009,Troy ,0.514
+2009,WI-Milwkee ,0.513
+2009,Kent State ,0.513
+2009,James Mad ,0.512
+2009,St Johns ,0.512
+2009,Morgan St ,0.511
+2009,Marshall ,0.511
+2009,Sam Hous St ,0.511
+2009,TX A&M-CC ,0.511
+2009,U Mass ,0.511
+2009,Morehead St ,0.510
+2009,Oregon St ,0.509
+2009,TN Martin ,0.509
+2009,S Illinois ,0.508
+2009,Central FL ,0.508
+2009,Oral Roberts ,0.507
+2009,S Alabama ,0.507
+2009,Lg Beach St ,0.507
+2009,Jacksonville ,0.507
+2009,Arkansas ,0.506
+2009,Murray St ,0.506
+2009,Cal St Nrdge ,0.506
+2009,Austin Peay ,0.506
+2009,Liberty ,0.506
+2009,GA Tech ,0.505
+2009,Wichita St ,0.504
+2009,Drake ,0.504
+2009,Iowa State ,0.503
+2009,Pacific ,0.503
+2009,Boston U ,0.503
+2009,Nicholls St ,0.502
+2009,Manhattan ,0.501
+2009,TX Christian ,0.501
+2009,Oregon ,0.500
+2009,IL-Chicago ,0.499
+2009,Bowling Grn ,0.499
+2009,S Mississippi ,0.499
+2009,Holy Cross ,0.498
+2009,Wofford ,0.498
+2009,Chattanooga ,0.498
+2009,Maryland BC ,0.498
+2009,Albany ,0.497
+2009,Middle Tenn ,0.497
+2009,Navy ,0.496
+2009,Citadel ,0.494
+2009,UCSB ,0.494
+2009,E Kentucky ,0.494
+2009,TX-Arlington ,0.493
+2009,S Florida ,0.492
+2009,Mercer ,0.491
+2009,Montana ,0.489
+2009,Ohio ,0.489
+2009,Sacred Hrt ,0.489
+2009,Jackson St ,0.488
+2009,LA Tech ,0.487
+2009,Rutgers ,0.487
+2009,Georgia ,0.486
+2009,W Carolina ,0.485
+2009,San Jose St ,0.484
+2009,Idaho State ,0.484
+2009,UC Riverside ,0.484
+2009,Santa Clara ,0.482
+2009,Colorado St ,0.482
+2009,Loyola-MD ,0.482
+2009,St Bonavent ,0.482
+2009,Stony Brook ,0.481
+2009,San Diego ,0.481
+2009,Alabama St ,0.481
+2009,Geo Wshgtn ,0.479
+2009,Tulane ,0.479
+2009,Indiana St ,0.479
+2009,CS Fullerton ,0.479
+2009,N Hampshire ,0.478
+2009,Charlotte ,0.478
+2009,Canisius ,0.478
+2009,NC-Asheville ,0.477
+2009,DePaul ,0.476
+2009,Indiana ,0.475
+2009,Lamar ,0.475
+2009,Missouri St ,0.475
+2009,TX-San Ant ,0.474
+2009,E Carolina ,0.472
+2009,Iona ,0.471
+2009,Presbyterian ,0.471
+2009,Loyola-Chi ,0.471
+2009,Florida Intl ,0.469
+2009,Gard-Webb ,0.468
+2009,Towson ,0.467
+2009,Delaware ,0.467
+2009,Montana St ,0.464
+2009,Rice ,0.464
+2009,Coppin State ,0.463
+2009,Hawaii ,0.463
+2009,Stetson ,0.463
+2009,Denver ,0.462
+2009,Lipscomb ,0.462
+2009,IPFW ,0.462
+2009,Colorado ,0.460
+2009,UC Irvine ,0.460
+2009,Yale ,0.460
+2009,Central Conn ,0.460
+2009,E Washingtn ,0.459
+2009,Samford ,0.459
+2009,Chicago St ,0.458
+2009,Georgia St ,0.458
+2009,Fresno St ,0.457
+2009,Quinnipiac ,0.457
+2009,LIU-Brooklyn ,0.456
+2009,IUPUI ,0.456
+2009,Youngs St ,0.455
+2009,Arkansas St ,0.455
+2009,San Fransco ,0.454
+2009,Utah Val St ,0.453
+2009,Harvard ,0.453
+2009,Wm & Mary ,0.453
+2009,Hampton ,0.453
+2009,Beth-Cook ,0.452
+2009,SE Louisiana ,0.452
+2009,App State ,0.452
+2009,Wagner ,0.451
+2009,U Penn ,0.451
+2009,Winthrop ,0.450
+2009,St Peters ,0.450
+2009,Ark Pine Bl ,0.449
+2009,Lehigh ,0.449
+2009,NC A&T ,0.448
+2009,S Car State ,0.448
+2009,Valparaiso ,0.447
+2009,Marist ,0.447
+2009,Savannah St ,0.447
+2009,Campbell ,0.447
+2009,S Utah ,0.443
+2009,Jksnville St ,0.442
+2009,S Methodist ,0.442
+2009,LA Lafayette ,0.441
+2009,TN State ,0.440
+2009,Ball State ,0.440
+2009,TN Tech ,0.439
+2009,Texas State ,0.438
+2009,Prairie View ,0.438
+2009,UC Davis ,0.438
+2009,N Colorado ,0.438
+2009,NC-Wilmgton ,0.437
+2009,Elon ,0.436
+2009,Pepperdine ,0.436
+2009,St Fran (NY) ,0.435
+2009,Air Force ,0.435
+2009,Colgate ,0.435
+2009,New Orleans ,0.434
+2009,Detroit ,0.434
+2009,Army ,0.433
+2009,S Dakota St ,0.433
+2009,Maine ,0.429
+2009,SC Upstate ,0.429
+2009,E Illinois ,0.428
+2009,LA Monroe ,0.427
+2009,Columbia ,0.427
+2009,Centenary ,0.426
+2009,Princeton ,0.425
+2009,Fordham ,0.425
+2009,N Arizona ,0.424
+2009,Delaware St ,0.422
+2009,Bucknell ,0.422
+2009,Central Mich ,0.422
+2009,W Michigan ,0.422
+2009,Hartford ,0.421
+2009,GA Southern ,0.420
+2009,Longwood ,0.420
+2009,McNeese St ,0.420
+2009,Coastal Car ,0.417
+2009,CS Bakersfld ,0.416
+2009,Bryant ,0.415
+2009,Brown ,0.415
+2009,Cal Poly ,0.414
+2009,Houston Bap ,0.413
+2009,Florida A&M ,0.412
+2009,Lafayette ,0.412
+2009,UMKC ,0.411
+2009,Norfolk St ,0.411
+2009,Fla Gulf Cst ,0.411
+2009,Fla Atlantic ,0.408
+2009,NW State ,0.405
+2009,F Dickinson ,0.405
+2009,Dartmouth ,0.403
+2009,E Michigan ,0.403
+2009,NC-Grnsboro ,0.401
+2009,Toledo ,0.400
+2009,Loyola Mymt ,0.400
+2009,Central Ark ,0.399
+2009,Wins-Salem ,0.399
+2009,Monmouth ,0.398
+2009,TX Southern ,0.396
+2009,Charl South ,0.395
+2009,N Florida ,0.395
+2009,St Fran (PA) ,0.394
+2009,High Point ,0.394
+2009,W Illinois ,0.389
+2009,Howard ,0.389
+2009,N Illinois ,0.383
+2009,Miss Val St ,0.380
+2009,Furman ,0.379
+2009,TX-Pan Am ,0.372
+2009,Alab A&M ,0.372
+2009,Southern ,0.366
+2009,Kennesaw St ,0.364
+2009,Maryland ES ,0.362
+2009,SE Missouri ,0.358
+2009,NC Central ,0.357
+2009,Sac State ,0.353
+2009,Grambling St ,0.351
+2009,Alcorn State ,0.339
+2009,NJIT ,0.313
+2010,Kansas ,0.683
+2010,Duke ,0.663
+2010,Kentucky ,0.660
+2010,Syracuse ,0.660
+2010,W Virginia ,0.656
+2010,Kansas St ,0.640
+2010,New Mexico ,0.639
+2010,Baylor ,0.637
+2010,Villanova ,0.635
+2010,Pittsburgh ,0.634
+2010,Texas A&M ,0.631
+2010,Purdue ,0.630
+2010,Tennessee ,0.628
+2010,Butler ,0.627
+2010,Georgetown ,0.627
+2010,Wisconsin ,0.625
+2010,Temple ,0.624
+2010,N Iowa ,0.623
+2010,Maryland ,0.621
+2010,California ,0.619
+2010,Xavier ,0.618
+2010,Vanderbilt ,0.618
+2010,BYU ,0.617
+2010,Michigan St ,0.612
+2010,Richmond ,0.611
+2010,Texas ,0.610
+2010,Clemson ,0.608
+2010,Oklahoma St ,0.608
+2010,Ohio State ,0.607
+2010,Old Dominion ,0.606
+2010,Utah State ,0.605
+2010,Louisville ,0.605
+2010,Wake Forest ,0.604
+2010,Siena ,0.602
+2010,Florida St ,0.600
+2010,San Diego St ,0.600
+2010,Gonzaga ,0.599
+2010,St Marys ,0.596
+2010,Missouri ,0.596
+2010,TX El Paso ,0.594
+2010,UAB ,0.593
+2010,Rhode Island ,0.593
+2010,Kent State ,0.592
+2010,GA Tech ,0.589
+2010,Wichita St ,0.589
+2010,Cornell ,0.585
+2010,UNLV ,0.585
+2010,Memphis ,0.583
+2010,VA Tech ,0.582
+2010,Washington ,0.582
+2010,Dayton ,0.582
+2010,Oakland ,0.581
+2010,Florida ,0.581
+2010,Arizona St ,0.579
+2010,Seton Hall ,0.579
+2010,Mississippi ,0.577
+2010,Notre Dame ,0.576
+2010,Marquette ,0.575
+2010,Murray St ,0.575
+2010,Wm & Mary ,0.575
+2010,Connecticut ,0.571
+2010,Marshall ,0.570
+2010,Cincinnati ,0.569
+2010,Nevada ,0.569
+2010,VCU ,0.569
+2010,S Florida ,0.568
+2010,N Mex State ,0.568
+2010,St Johns ,0.566
+2010,Wofford ,0.565
+2010,Miss State ,0.565
+2010,Tulsa ,0.565
+2010,Texas Tech ,0.562
+2010,Northeastrn ,0.561
+2010,Illinois ,0.560
+2010,Illinois St ,0.559
+2010,Minnesota ,0.557
+2010,Weber State ,0.556
+2010,Charlotte ,0.556
+2010,LA Tech ,0.555
+2010,Sam Hous St ,0.554
+2010,Portland ,0.554
+2010,Fairfield ,0.554
+2010,Wright State ,0.552
+2010,S Carolina ,0.552
+2010,Saint Louis ,0.552
+2010,N Carolina ,0.551
+2010,Arizona ,0.551
+2010,IUPUI ,0.550
+2010,Morehead St ,0.549
+2010,Iona ,0.548
+2010,Missouri St ,0.548
+2010,Indiana St ,0.547
+2010,Col Charlestn ,0.545
+2010,Akron ,0.544
+2010,Harvard ,0.539
+2010,App State ,0.539
+2010,Buffalo ,0.538
+2010,North Texas ,0.537
+2010,Alabama ,0.536
+2010,Bradley ,0.536
+2010,UCSB ,0.536
+2010,Montana ,0.535
+2010,Boston Col ,0.535
+2010,Georgia ,0.535
+2010,Morgan St ,0.534
+2010,Colorado ,0.534
+2010,NC State ,0.534
+2010,Duquesne ,0.533
+2010,WI-Grn Bay ,0.532
+2010,Oklahoma ,0.531
+2010,USC ,0.531
+2010,Colorado St ,0.529
+2010,Iowa State ,0.529
+2010,Ohio ,0.528
+2010,Creighton ,0.528
+2010,Troy ,0.527
+2010,Northwestern ,0.527
+2010,W Carolina ,0.526
+2010,Miami (FL) ,0.526
+2010,N Colorado ,0.526
+2010,Pacific ,0.526
+2010,E Tenn St ,0.526
+2010,Oral Roberts ,0.525
+2010,Lg Beach St ,0.524
+2010,WI-Milwkee ,0.524
+2010,Vermont ,0.522
+2010,Providence ,0.520
+2010,Princeton ,0.520
+2010,Niagara ,0.520
+2010,S Mississippi ,0.520
+2010,Quinnipiac ,0.520
+2010,Michigan ,0.520
+2010,Virginia ,0.519
+2010,Coastal Car ,0.519
+2010,W Kentucky ,0.519
+2010,Jacksonville ,0.517
+2010,Auburn ,0.517
+2010,Geo Wshgtn ,0.516
+2010,Stony Brook ,0.516
+2010,Rider ,0.516
+2010,Boston U ,0.516
+2010,Rob Morris ,0.516
+2010,Belmont ,0.516
+2010,E Kentucky ,0.516
+2010,Arkansas ,0.515
+2010,Drexel ,0.515
+2010,Oregon ,0.515
+2010,UCLA ,0.514
+2010,Miami (OH) ,0.514
+2010,Maine ,0.513
+2010,Hofstra ,0.512
+2010,W Michigan ,0.512
+2010,Wash State ,0.511
+2010,Nebraska ,0.510
+2010,Utah ,0.510
+2010,St Bonavent ,0.509
+2010,Rutgers ,0.509
+2010,Geo Mason ,0.509
+2010,Lehigh ,0.509
+2010,Houston ,0.507
+2010,Winthrop ,0.507
+2010,Ste F Austin ,0.506
+2010,U Mass ,0.506
+2010,Austin Peay ,0.506
+2010,Denver ,0.505
+2010,Cleveland St ,0.504
+2010,Detroit ,0.503
+2010,Idaho ,0.503
+2010,E Illinois ,0.503
+2010,Radford ,0.503
+2010,San Jose St ,0.503
+2010,S Illinois ,0.502
+2010,Mt St Marys ,0.502
+2010,La Salle ,0.501
+2010,Loyola Mymt ,0.500
+2010,Stanford ,0.499
+2010,TX A&M-CC ,0.499
+2010,Davidson ,0.498
+2010,St Josephs ,0.498
+2010,St Peters ,0.497
+2010,Valparaiso ,0.497
+2010,Middle Tenn ,0.497
+2010,Campbell ,0.497
+2010,Drake ,0.497
+2010,TX-San Ant ,0.495
+2010,Oregon St ,0.494
+2010,Fresno St ,0.493
+2010,Bowling Grn ,0.492
+2010,Jackson St ,0.490
+2010,Central Mich ,0.490
+2010,Seattle ,0.489
+2010,Penn State ,0.489
+2010,TX Christian ,0.489
+2010,Ark Pine Bl ,0.488
+2010,Central FL ,0.487
+2010,SE Louisiana ,0.486
+2010,TN Tech ,0.483
+2010,Iowa ,0.483
+2010,Citadel ,0.483
+2010,Arkansas St ,0.482
+2010,S Methodist ,0.481
+2010,CS Fullerton ,0.481
+2010,Montana St ,0.480
+2010,Canisius ,0.479
+2010,N Arizona ,0.479
+2010,Boise State ,0.479
+2010,E Michigan ,0.478
+2010,San Fransco ,0.478
+2010,Lipscomb ,0.477
+2010,DePaul ,0.477
+2010,Lafayette ,0.474
+2010,Indiana ,0.473
+2010,S Alabama ,0.472
+2010,Loyola-Chi ,0.472
+2010,Wyoming ,0.471
+2010,Fla Atlantic ,0.471
+2010,Ball State ,0.470
+2010,South Dakota ,0.470
+2010,NC-Asheville ,0.470
+2010,Loyola-MD ,0.470
+2010,Delaware St ,0.469
+2010,LSU ,0.469
+2010,Portland St ,0.469
+2010,Mercer ,0.467
+2010,IPFW ,0.467
+2010,Manhattan ,0.464
+2010,E Carolina ,0.463
+2010,Binghamton ,0.462
+2010,San Diego ,0.460
+2010,Liberty ,0.459
+2010,Texas State ,0.458
+2010,TX-Arlington ,0.458
+2010,N Florida ,0.458
+2010,TX Southern ,0.457
+2010,Santa Clara ,0.457
+2010,NC-Wilmgton ,0.457
+2010,S Dakota St ,0.456
+2010,Delaware ,0.455
+2010,Chattanooga ,0.455
+2010,LIU-Brooklyn ,0.454
+2010,James Mad ,0.454
+2010,S Car State ,0.454
+2010,N Hampshire ,0.454
+2010,Cal St Nrdge ,0.452
+2010,LA Lafayette ,0.451
+2010,NC-Grnsboro ,0.450
+2010,Army ,0.450
+2010,Georgia St ,0.449
+2010,Hawaii ,0.448
+2010,Evansville ,0.448
+2010,Columbia ,0.448
+2010,Air Force ,0.446
+2010,UC Davis ,0.446
+2010,Brown ,0.445
+2010,High Point ,0.445
+2010,Beth-Cook ,0.443
+2010,UC Riverside ,0.443
+2010,TN State ,0.442
+2010,Cal Poly ,0.442
+2010,Bucknell ,0.442
+2010,Norfolk St ,0.442
+2010,Samford ,0.441
+2010,Yale ,0.440
+2010,N Illinois ,0.440
+2010,Navy ,0.439
+2010,Towson ,0.438
+2010,Sacred Hrt ,0.437
+2010,N Dakota St ,0.437
+2010,UC Irvine ,0.436
+2010,Elon ,0.435
+2010,Prairie View ,0.434
+2010,Holy Cross ,0.434
+2010,Youngs St ,0.433
+2010,F Dickinson ,0.433
+2010,E Washingtn ,0.432
+2010,LA Monroe ,0.432
+2010,Tulane ,0.431
+2010,Furman ,0.430
+2010,Alabama St ,0.429
+2010,W Illinois ,0.429
+2010,UMKC ,0.429
+2010,GA Southern ,0.428
+2010,Nicholls St ,0.428
+2010,Charl South ,0.428
+2010,Kennesaw St ,0.427
+2010,Longwood ,0.427
+2010,Monmouth ,0.425
+2010,St Fran (PA) ,0.425
+2010,Colgate ,0.424
+2010,IL-Chicago ,0.424
+2010,Hampton ,0.423
+2010,Lamar ,0.422
+2010,Wins-Salem ,0.422
+2010,St Fran (NY) ,0.421
+2010,American ,0.419
+2010,Florida Intl ,0.418
+2010,Sac State ,0.417
+2010,Jksnville St ,0.416
+2010,Hartford ,0.416
+2010,U Penn ,0.414
+2010,Fordham ,0.414
+2010,Albany ,0.414
+2010,AR Lit Rock ,0.414
+2010,Idaho State ,0.413
+2010,Pepperdine ,0.412
+2010,SC Upstate ,0.411
+2010,NC A&T ,0.411
+2010,Maryland ES ,0.411
+2010,VA Military ,0.410
+2010,Central Conn ,0.408
+2010,SE Missouri ,0.405
+2010,Rice ,0.405
+2010,McNeese St ,0.405
+2010,Centenary ,0.404
+2010,NW State ,0.403
+2010,CS Bakersfld ,0.401
+2010,Savannah St ,0.401
+2010,Gard-Webb ,0.399
+2010,Central Ark ,0.396
+2010,Fla Gulf Cst ,0.396
+2010,Florida A&M ,0.395
+2010,SIU Edward ,0.395
+2010,Toledo ,0.393
+2010,New Orleans ,0.392
+2010,Stetson ,0.391
+2010,Miss Val St ,0.391
+2010,S Utah ,0.390
+2010,Presbyterian ,0.387
+2010,Howard ,0.385
+2010,Alab A&M ,0.384
+2010,Houston Bap ,0.382
+2010,Wagner ,0.382
+2010,Maryland BC ,0.381
+2010,Dartmouth ,0.379
+2010,Marist ,0.379
+2010,Coppin State ,0.370
+2010,TX-Pan Am ,0.367
+2010,North Dakota ,0.366
+2010,TN Martin ,0.365
+2010,Utah Val St ,0.357
+2010,NJIT ,0.354
+2010,Grambling St ,0.350
+2010,Southern ,0.348
+2010,Chicago St ,0.346
+2010,Bryant ,0.345
+2010,NC Central ,0.342
+2010,Alcorn State ,0.341
+2011,Kansas ,0.676
+2011,Ohio State ,0.672
+2011,San Diego St ,0.659
+2011,BYU ,0.658
+2011,Duke ,0.656
+2011,N Carolina ,0.648
+2011,Pittsburgh ,0.645
+2011,Purdue ,0.645
+2011,Notre Dame ,0.645
+2011,Florida ,0.644
+2011,Kentucky ,0.637
+2011,Georgetown ,0.635
+2011,Wisconsin ,0.634
+2011,Texas ,0.633
+2011,Arizona ,0.624
+2011,Kansas St ,0.623
+2011,Utah State ,0.622
+2011,Syracuse ,0.620
+2011,W Virginia ,0.619
+2011,Xavier ,0.619
+2011,Louisville ,0.618
+2011,Old Dominion ,0.617
+2011,St Johns ,0.617
+2011,Connecticut ,0.616
+2011,UNLV ,0.610
+2011,Geo Mason ,0.609
+2011,Vanderbilt ,0.609
+2011,Temple ,0.603
+2011,UAB ,0.603
+2011,Texas A&M ,0.601
+2011,Cincinnati ,0.595
+2011,Missouri ,0.594
+2011,UCLA ,0.593
+2011,Harvard ,0.593
+2011,Butler ,0.592
+2011,Tennessee ,0.591
+2011,Villanova ,0.589
+2011,Illinois ,0.588
+2011,Memphis ,0.587
+2011,Georgia ,0.587
+2011,Missouri St ,0.585
+2011,Colorado St ,0.584
+2011,Cleveland St ,0.584
+2011,Oakland ,0.581
+2011,Florida St ,0.581
+2011,Washington ,0.581
+2011,Boston Col ,0.580
+2011,St Marys ,0.579
+2011,Princeton ,0.578
+2011,Michigan St ,0.577
+2011,Marshall ,0.576
+2011,VCU ,0.576
+2011,Belmont ,0.575
+2011,S Mississippi ,0.575
+2011,Penn State ,0.574
+2011,Michigan ,0.574
+2011,Marquette ,0.573
+2011,Richmond ,0.572
+2011,Gonzaga ,0.572
+2011,Wichita St ,0.572
+2011,Clemson ,0.572
+2011,Oklahoma St ,0.571
+2011,TX El Paso ,0.570
+2011,VA Tech ,0.565
+2011,California ,0.565
+2011,Colorado ,0.561
+2011,Valparaiso ,0.561
+2011,Central FL ,0.561
+2011,USC ,0.561
+2011,Col Charlestn ,0.561
+2011,New Mexico ,0.560
+2011,Drexel ,0.559
+2011,Minnesota ,0.559
+2011,Iona ,0.559
+2011,Wash State ,0.559
+2011,LIU-Brooklyn ,0.559
+2011,Miami (FL) ,0.558
+2011,Morehead St ,0.557
+2011,Mississippi ,0.555
+2011,Bucknell ,0.555
+2011,Alabama ,0.554
+2011,Tulsa ,0.554
+2011,Dayton ,0.554
+2011,Indiana St ,0.554
+2011,Kent State ,0.553
+2011,Hofstra ,0.552
+2011,Nebraska ,0.552
+2011,James Mad ,0.551
+2011,Lg Beach St ,0.550
+2011,Northwestern ,0.548
+2011,Baylor ,0.547
+2011,E Tenn St ,0.546
+2011,Duquesne ,0.544
+2011,WI-Milwkee ,0.544
+2011,St Peters ,0.543
+2011,Fairfield ,0.543
+2011,N Colorado ,0.542
+2011,Seton Hall ,0.541
+2011,Rhode Island ,0.540
+2011,Miami (OH) ,0.540
+2011,Rob Morris ,0.540
+2011,Vermont ,0.540
+2011,E Carolina ,0.540
+2011,Montana ,0.538
+2011,Air Force ,0.538
+2011,Maryland ,0.538
+2011,Coastal Car ,0.537
+2011,Rider ,0.536
+2011,Portland ,0.536
+2011,N Iowa ,0.533
+2011,Wofford ,0.533
+2011,Fla Atlantic ,0.532
+2011,Arkansas ,0.531
+2011,Murray St ,0.530
+2011,Miss State ,0.530
+2011,Furman ,0.530
+2011,NC State ,0.529
+2011,IUPUI ,0.528
+2011,San Fransco ,0.527
+2011,Boise State ,0.527
+2011,Utah ,0.526
+2011,St Bonavent ,0.526
+2011,Oklahoma ,0.526
+2011,Rutgers ,0.524
+2011,Idaho ,0.523
+2011,Wright State ,0.522
+2011,Creighton ,0.521
+2011,Oral Roberts ,0.521
+2011,S Carolina ,0.520
+2011,Austin Peay ,0.520
+2011,Akron ,0.519
+2011,American ,0.519
+2011,Lipscomb ,0.519
+2011,Virginia ,0.518
+2011,North Texas ,0.517
+2011,Iowa State ,0.516
+2011,Boston U ,0.515
+2011,N Mex State ,0.515
+2011,Evansville ,0.514
+2011,Delaware ,0.512
+2011,Jacksonville ,0.511
+2011,Detroit ,0.511
+2011,Quinnipiac ,0.510
+2011,Geo Wshgtn ,0.509
+2011,Oregon ,0.508
+2011,NC-Asheville ,0.508
+2011,Central Conn ,0.507
+2011,U Mass ,0.506
+2011,N Florida ,0.506
+2011,S Florida ,0.506
+2011,Providence ,0.505
+2011,Stanford ,0.504
+2011,Hawaii ,0.504
+2011,Yale ,0.504
+2011,Weber State ,0.503
+2011,McNeese St ,0.503
+2011,Arizona St ,0.502
+2011,Ohio ,0.502
+2011,Santa Clara ,0.501
+2011,Buffalo ,0.500
+2011,N Arizona ,0.500
+2011,Texas Tech ,0.500
+2011,GA Tech ,0.499
+2011,Hampton ,0.498
+2011,Sam Hous St ,0.498
+2011,San Jose St ,0.497
+2011,La Salle ,0.497
+2011,W Carolina ,0.496
+2011,Saint Louis ,0.496
+2011,St Josephs ,0.496
+2011,Wagner ,0.496
+2011,WI-Grn Bay ,0.495
+2011,Iowa ,0.495
+2011,TX Southern ,0.495
+2011,Ball State ,0.493
+2011,U Penn ,0.493
+2011,IPFW ,0.493
+2011,Northeastrn ,0.493
+2011,Loyola-MD ,0.492
+2011,Indiana ,0.492
+2011,W Michigan ,0.491
+2011,Canisius ,0.491
+2011,Arkansas St ,0.491
+2011,Pacific ,0.491
+2011,Nevada ,0.491
+2011,Davidson ,0.491
+2011,Rice ,0.490
+2011,S Dakota St ,0.490
+2011,Columbia ,0.490
+2011,Liberty ,0.490
+2011,TN Tech ,0.488
+2011,AR Lit Rock ,0.488
+2011,Beth-Cook ,0.487
+2011,UCSB ,0.487
+2011,App State ,0.486
+2011,Cal Poly ,0.485
+2011,W Kentucky ,0.484
+2011,Loyola-Chi ,0.483
+2011,Chattanooga ,0.482
+2011,VA Military ,0.478
+2011,Siena ,0.478
+2011,Fresno St ,0.478
+2011,Presbyterian ,0.477
+2011,S Methodist ,0.476
+2011,Lehigh ,0.476
+2011,S Illinois ,0.475
+2011,Cornell ,0.475
+2011,TX Christian ,0.474
+2011,TX-San Ant ,0.472
+2011,Middle Tenn ,0.471
+2011,NC-Wilmgton ,0.470
+2011,Mercer ,0.469
+2011,UMKC ,0.469
+2011,Drake ,0.469
+2011,Albany ,0.469
+2011,LA Lafayette ,0.469
+2011,Maine ,0.469
+2011,Oregon St ,0.468
+2011,St Fran (NY) ,0.468
+2011,Texas State ,0.467
+2011,Charlotte ,0.467
+2011,NC A&T ,0.467
+2011,Georgia St ,0.466
+2011,LSU ,0.466
+2011,Lafayette ,0.466
+2011,Wm & Mary ,0.465
+2011,Morgan St ,0.465
+2011,Winthrop ,0.464
+2011,SE Louisiana ,0.464
+2011,Ste F Austin ,0.463
+2011,DePaul ,0.461
+2011,Mt St Marys ,0.461
+2011,Bradley ,0.460
+2011,Coppin State ,0.459
+2011,Houston ,0.459
+2011,Charl South ,0.458
+2011,Tulane ,0.458
+2011,TN State ,0.458
+2011,Nicholls St ,0.457
+2011,N Dakota St ,0.457
+2011,NW State ,0.456
+2011,Stony Brook ,0.456
+2011,Brown ,0.456
+2011,Jackson St ,0.455
+2011,Pepperdine ,0.455
+2011,Miss Val St ,0.455
+2011,Utah Val St ,0.455
+2011,Bowling Grn ,0.454
+2011,Denver ,0.452
+2011,LA Tech ,0.450
+2011,Cal St Nrdge ,0.449
+2011,Fordham ,0.447
+2011,Auburn ,0.447
+2011,Bryant ,0.445
+2011,Wyoming ,0.445
+2011,Montana St ,0.444
+2011,Illinois St ,0.444
+2011,NC Central ,0.443
+2011,St Fran (PA) ,0.443
+2011,Savannah St ,0.443
+2011,E Kentucky ,0.443
+2011,High Point ,0.443
+2011,Wake Forest ,0.442
+2011,Troy ,0.441
+2011,Elon ,0.441
+2011,Gard-Webb ,0.440
+2011,S Utah ,0.439
+2011,Loyola Mymt ,0.438
+2011,TX-Arlington ,0.436
+2011,Hartford ,0.434
+2011,N Hampshire ,0.434
+2011,Sacred Hrt ,0.434
+2011,S Alabama ,0.434
+2011,Norfolk St ,0.433
+2011,Seattle ,0.432
+2011,Army ,0.431
+2011,Florida Intl ,0.431
+2011,UC Riverside ,0.431
+2011,TX A&M-CC ,0.431
+2011,Fla Gulf Cst ,0.430
+2011,Campbell ,0.429
+2011,Holy Cross ,0.428
+2011,North Dakota ,0.428
+2011,TN Martin ,0.428
+2011,Towson ,0.427
+2011,Samford ,0.427
+2011,Niagara ,0.427
+2011,Manhattan ,0.427
+2011,UC Irvine ,0.426
+2011,IL-Chicago ,0.426
+2011,Portland St ,0.426
+2011,Monmouth ,0.426
+2011,E Washingtn ,0.426
+2011,Navy ,0.426
+2011,Youngs St ,0.425
+2011,Alabama St ,0.425
+2011,Citadel ,0.424
+2011,Lamar ,0.424
+2011,NC-Grnsboro ,0.424
+2011,CS Fullerton ,0.422
+2011,Binghamton ,0.421
+2011,Idaho State ,0.420
+2011,UC Davis ,0.420
+2011,SE Missouri ,0.418
+2011,Stetson ,0.418
+2011,Alab A&M ,0.416
+2011,Marist ,0.416
+2011,Central Mich ,0.415
+2011,NJIT ,0.414
+2011,Delaware St ,0.412
+2011,CS Bakersfld ,0.410
+2011,Dartmouth ,0.409
+2011,SC Upstate ,0.408
+2011,Colgate ,0.407
+2011,N Illinois ,0.406
+2011,E Illinois ,0.406
+2011,San Diego ,0.403
+2011,Longwood ,0.400
+2011,Kennesaw St ,0.400
+2011,Grambling St ,0.398
+2011,Maryland BC ,0.398
+2011,Maryland ES ,0.394
+2011,South Dakota ,0.393
+2011,LA Monroe ,0.387
+2011,Ark Pine Bl ,0.387
+2011,F Dickinson ,0.387
+2011,Florida A&M ,0.387
+2011,E Michigan ,0.386
+2011,SIU Edward ,0.384
+2011,Sac State ,0.382
+2011,Jksnville St ,0.376
+2011,Howard ,0.374
+2011,Radford ,0.373
+2011,S Car State ,0.371
+2011,Prairie View ,0.369
+2011,W Illinois ,0.368
+2011,Alcorn State ,0.367
+2011,Toledo ,0.367
+2011,Chicago St ,0.362
+2011,Central Ark ,0.359
+2011,GA Southern ,0.354
+2011,Centenary ,0.348
+2011,TX-Pan Am ,0.341
+2011,Southern ,0.338
+2011,Houston Bap ,0.326
+2012,Syracuse ,0.668
+2012,Kentucky ,0.667
+2012,N Carolina ,0.661
+2012,Duke ,0.657
+2012,Kansas ,0.644
+2012,Michigan St ,0.643
+2012,Ohio State ,0.638
+2012,Baylor ,0.637
+2012,Marquette ,0.634
+2012,Michigan ,0.626
+2012,Missouri ,0.623
+2012,Wichita St ,0.622
+2012,Georgetown ,0.621
+2012,Indiana ,0.620
+2012,Memphis ,0.617
+2012,UNLV ,0.617
+2012,Temple ,0.617
+2012,Louisville ,0.616
+2012,Wisconsin ,0.614
+2012,S Mississippi ,0.612
+2012,Murray St ,0.612
+2012,Florida St ,0.611
+2012,San Diego St ,0.611
+2012,Gonzaga ,0.609
+2012,Creighton ,0.608
+2012,St Marys ,0.607
+2012,Saint Louis ,0.605
+2012,Vanderbilt ,0.605
+2012,Florida ,0.605
+2012,New Mexico ,0.601
+2012,Colorado St ,0.600
+2012,Connecticut ,0.594
+2012,Iowa State ,0.593
+2012,Harvard ,0.589
+2012,Alabama ,0.588
+2012,California ,0.586
+2012,Notre Dame ,0.586
+2012,Lg Beach St ,0.586
+2012,VCU ,0.585
+2012,S Dakota St ,0.585
+2012,Oral Roberts ,0.583
+2012,Marshall ,0.582
+2012,Cincinnati ,0.582
+2012,Xavier ,0.580
+2012,Purdue ,0.580
+2012,Kansas St ,0.580
+2012,BYU ,0.580
+2012,Iona ,0.580
+2012,Texas ,0.578
+2012,NC State ,0.578
+2012,S Florida ,0.578
+2012,Virginia ,0.578
+2012,Mississippi ,0.577
+2012,Akron ,0.577
+2012,Central FL ,0.576
+2012,Middle Tenn ,0.574
+2012,Ohio ,0.573
+2012,Belmont ,0.573
+2012,Northwestern ,0.573
+2012,W Virginia ,0.572
+2012,Davidson ,0.571
+2012,Miami (FL) ,0.571
+2012,Oregon ,0.571
+2012,N Mex State ,0.570
+2012,Drexel ,0.570
+2012,Seton Hall ,0.570
+2012,St Josephs ,0.570
+2012,Weber State ,0.568
+2012,Washington ,0.568
+2012,Colorado ,0.567
+2012,Nevada ,0.565
+2012,Arizona ,0.563
+2012,Montana ,0.562
+2012,U Mass ,0.562
+2012,N Iowa ,0.561
+2012,Miss State ,0.561
+2012,LIU-Brooklyn ,0.557
+2012,Geo Mason ,0.557
+2012,Loyola-MD ,0.557
+2012,Buffalo ,0.557
+2012,Dayton ,0.556
+2012,Wyoming ,0.555
+2012,LSU ,0.555
+2012,Tennessee ,0.554
+2012,La Salle ,0.553
+2012,Cleveland St ,0.553
+2012,Princeton ,0.552
+2012,Illinois ,0.551
+2012,Minnesota ,0.550
+2012,Wagner ,0.549
+2012,St Bonavent ,0.549
+2012,Bucknell ,0.548
+2012,Lehigh ,0.547
+2012,Valparaiso ,0.547
+2012,Denver ,0.546
+2012,Stanford ,0.543
+2012,NC-Asheville ,0.542
+2012,Pittsburgh ,0.542
+2012,Illinois St ,0.541
+2012,U Penn ,0.541
+2012,Georgia ,0.540
+2012,Yale ,0.539
+2012,Old Dominion ,0.539
+2012,Duquesne ,0.537
+2012,TX Christian ,0.537
+2012,TN State ,0.537
+2012,TX-Arlington ,0.536
+2012,Rob Morris ,0.536
+2012,Maryland ,0.536
+2012,UAB ,0.536
+2012,Arkansas ,0.535
+2012,Kent State ,0.535
+2012,Butler ,0.535
+2012,Fairfield ,0.534
+2012,Lamar ,0.533
+2012,VA Tech ,0.533
+2012,UCSB ,0.532
+2012,Loyola Mymt ,0.530
+2012,Villanova ,0.529
+2012,Tulsa ,0.529
+2012,Oklahoma St ,0.528
+2012,Col Charlestn ,0.527
+2012,UCLA ,0.527
+2012,Missouri St ,0.526
+2012,Detroit ,0.525
+2012,Richmond ,0.524
+2012,Iowa ,0.523
+2012,Mercer ,0.522
+2012,Evansville ,0.521
+2012,Indiana St ,0.521
+2012,WI-Milwkee ,0.521
+2012,Oregon St ,0.521
+2012,Oakland ,0.520
+2012,Drake ,0.519
+2012,Norfolk St ,0.519
+2012,Oklahoma ,0.519
+2012,San Fransco ,0.518
+2012,TN Tech ,0.517
+2012,Stony Brook ,0.515
+2012,American ,0.514
+2012,TX El Paso ,0.514
+2012,Georgia St ,0.514
+2012,Auburn ,0.514
+2012,SC Upstate ,0.514
+2012,Utah State ,0.514
+2012,Idaho ,0.513
+2012,WI-Grn Bay ,0.512
+2012,Miss Val St ,0.511
+2012,Manhattan ,0.511
+2012,Vermont ,0.510
+2012,Clemson ,0.510
+2012,Nebraska ,0.508
+2012,Delaware ,0.508
+2012,St Johns ,0.508
+2012,W Illinois ,0.507
+2012,Bowling Grn ,0.506
+2012,LA Tech ,0.505
+2012,Penn State ,0.505
+2012,CS Fullerton ,0.505
+2012,Providence ,0.505
+2012,E Carolina ,0.502
+2012,Rutgers ,0.502
+2012,Quinnipiac ,0.502
+2012,Morehead St ,0.501
+2012,Air Force ,0.500
+2012,Charl South ,0.499
+2012,Charlotte ,0.498
+2012,Texas A&M ,0.497
+2012,Youngs St ,0.496
+2012,S Alabama ,0.496
+2012,Rice ,0.495
+2012,McNeese St ,0.494
+2012,Portland St ,0.494
+2012,AR Lit Rock ,0.494
+2012,Northeastrn ,0.494
+2012,Boise State ,0.493
+2012,Wofford ,0.492
+2012,Holy Cross ,0.492
+2012,N Florida ,0.492
+2012,E Tenn St ,0.491
+2012,Wake Forest ,0.491
+2012,Cornell ,0.490
+2012,Coastal Car ,0.490
+2012,N Dakota St ,0.490
+2012,LA Lafayette ,0.489
+2012,Wash State ,0.489
+2012,Columbia ,0.488
+2012,Geo Wshgtn ,0.487
+2012,W Kentucky ,0.486
+2012,Boston U ,0.486
+2012,Savannah St ,0.486
+2012,GA Tech ,0.484
+2012,Austin Peay ,0.484
+2012,San Diego ,0.484
+2012,S Carolina ,0.483
+2012,TX-San Ant ,0.481
+2012,DePaul ,0.480
+2012,Rider ,0.480
+2012,North Texas ,0.480
+2012,Lafayette ,0.479
+2012,Ste F Austin ,0.477
+2012,Niagara ,0.477
+2012,IUPUI ,0.477
+2012,GA Southern ,0.477
+2012,Hawaii ,0.476
+2012,Campbell ,0.475
+2012,E Washingtn ,0.475
+2012,Fla Atlantic ,0.475
+2012,W Michigan ,0.474
+2012,St Fran (NY) ,0.473
+2012,Fla Gulf Cst ,0.473
+2012,Siena ,0.473
+2012,NW State ,0.473
+2012,Cal Poly ,0.471
+2012,Albany ,0.471
+2012,NC-Wilmgton ,0.471
+2012,Houston ,0.471
+2012,S Methodist ,0.471
+2012,Jksnville St ,0.469
+2012,Arkansas St ,0.468
+2012,E Kentucky ,0.468
+2012,W Carolina ,0.468
+2012,CS Bakersfld ,0.468
+2012,Wright State ,0.468
+2012,Marist ,0.467
+2012,S Utah ,0.466
+2012,Lipscomb ,0.466
+2012,Elon ,0.465
+2012,Utah Val St ,0.464
+2012,TX Southern ,0.464
+2012,Fresno St ,0.464
+2012,Central Conn ,0.464
+2012,NC Central ,0.464
+2012,NC-Grnsboro ,0.463
+2012,Monmouth ,0.461
+2012,Portland ,0.460
+2012,Furman ,0.460
+2012,Beth-Cook ,0.459
+2012,Boston Col ,0.458
+2012,Fordham ,0.458
+2012,Texas Tech ,0.458
+2012,Sacred Hrt ,0.458
+2012,E Michigan ,0.457
+2012,Presbyterian ,0.456
+2012,Tulane ,0.455
+2012,Miami (OH) ,0.455
+2012,SE Missouri ,0.455
+2012,Toledo ,0.455
+2012,Delaware St ,0.454
+2012,North Dakota ,0.453
+2012,Florida Intl ,0.452
+2012,Arizona St ,0.451
+2012,UC Riverside ,0.451
+2012,UC Irvine ,0.450
+2012,Ball State ,0.448
+2012,S Illinois ,0.448
+2012,App State ,0.446
+2012,Rhode Island ,0.446
+2012,N Colorado ,0.445
+2012,Troy ,0.445
+2012,James Mad ,0.445
+2012,Bradley ,0.444
+2012,Hofstra ,0.443
+2012,Jacksonville ,0.443
+2012,UMKC ,0.442
+2012,Stetson ,0.442
+2012,VA Military ,0.441
+2012,USC ,0.440
+2012,Samford ,0.439
+2012,High Point ,0.439
+2012,Pepperdine ,0.437
+2012,Winthrop ,0.437
+2012,Sam Hous St ,0.437
+2012,Utah ,0.437
+2012,IPFW ,0.436
+2012,Montana St ,0.435
+2012,Coppin State ,0.434
+2012,San Jose St ,0.432
+2012,Southern ,0.431
+2012,Liberty ,0.430
+2012,Maine ,0.429
+2012,Central Mich ,0.428
+2012,Howard ,0.427
+2012,E Illinois ,0.427
+2012,Texas State ,0.427
+2012,NC A&T ,0.427
+2012,Pacific ,0.427
+2012,Morgan St ,0.426
+2012,Seattle ,0.424
+2012,Idaho State ,0.424
+2012,South Dakota ,0.423
+2012,Mt St Marys ,0.421
+2012,NJIT ,0.418
+2012,Nicholls St ,0.418
+2012,Prairie View ,0.417
+2012,Gard-Webb ,0.417
+2012,Colgate ,0.417
+2012,IL-Chicago ,0.416
+2012,N Hampshire ,0.416
+2012,SIU Edward ,0.414
+2012,Santa Clara ,0.413
+2012,Hampton ,0.412
+2012,Wm & Mary ,0.412
+2012,Ark Pine Bl ,0.412
+2012,St Peters ,0.412
+2012,Army ,0.412
+2012,Hartford ,0.407
+2012,Alabama St ,0.406
+2012,Loyola-Chi ,0.405
+2012,Chattanooga ,0.405
+2012,Towson ,0.404
+2012,St Fran (PA) ,0.402
+2012,Sac State ,0.402
+2012,Florida A&M ,0.401
+2012,TX-Pan Am ,0.401
+2012,LA Monroe ,0.399
+2012,Brown ,0.399
+2012,SE Louisiana ,0.398
+2012,TX A&M-CC ,0.396
+2012,Maryland ES ,0.396
+2012,Jackson St ,0.394
+2012,Central Ark ,0.393
+2012,Houston Bap ,0.391
+2012,Cal St Nrdge ,0.391
+2012,Citadel ,0.386
+2012,TN Martin ,0.385
+2012,Dartmouth ,0.381
+2012,Navy ,0.380
+2012,Radford ,0.380
+2012,F Dickinson ,0.378
+2012,Canisius ,0.376
+2012,Kennesaw St ,0.376
+2012,Longwood ,0.374
+2012,Neb Omaha ,0.374
+2012,Alcorn State ,0.369
+2012,N Arizona ,0.369
+2012,Chicago St ,0.368
+2012,UC Davis ,0.368
+2012,Maryland BC ,0.364
+2012,N Illinois ,0.361
+2012,Bryant ,0.361
+2012,Grambling St ,0.353
+2012,Alab A&M ,0.351
+2012,S Car State ,0.342
+2012,Binghamton ,0.337
+2013,Duke ,0.685
+2013,New Mexico ,0.664
+2013,Louisville ,0.653
+2013,Miami (FL) ,0.650
+2013,Michigan St ,0.645
+2013,Kansas ,0.643
+2013,Florida ,0.640
+2013,Michigan ,0.640
+2013,Georgetown ,0.639
+2013,Indiana ,0.639
+2013,Gonzaga ,0.639
+2013,Marquette ,0.638
+2013,Arizona ,0.629
+2013,Ohio State ,0.625
+2013,Colorado St ,0.625
+2013,Memphis ,0.623
+2013,Syracuse ,0.620
+2013,Belmont ,0.619
+2013,N Carolina ,0.618
+2013,Kansas St ,0.617
+2013,Butler ,0.614
+2013,Oklahoma St ,0.613
+2013,UNLV ,0.613
+2013,Middle Tenn ,0.612
+2013,Minnesota ,0.612
+2013,VCU ,0.609
+2013,Saint Louis ,0.607
+2013,NC State ,0.606
+2013,Creighton ,0.605
+2013,St Marys ,0.605
+2013,UCLA ,0.604
+2013,San Diego St ,0.604
+2013,Oklahoma ,0.603
+2013,Missouri ,0.603
+2013,Wichita St ,0.602
+2013,Colorado ,0.601
+2013,Boise State ,0.600
+2013,S Mississippi ,0.599
+2013,Pittsburgh ,0.599
+2013,La Salle ,0.598
+2013,Illinois ,0.598
+2013,Wisconsin ,0.595
+2013,Temple ,0.593
+2013,Notre Dame ,0.591
+2013,Connecticut ,0.590
+2013,Iowa State ,0.588
+2013,LA Tech ,0.588
+2013,California ,0.587
+2013,Cincinnati ,0.586
+2013,Kentucky ,0.584
+2013,Bucknell ,0.581
+2013,Villanova ,0.580
+2013,Akron ,0.580
+2013,Oregon ,0.579
+2013,Tennessee ,0.577
+2013,Mississippi ,0.575
+2013,Denver ,0.572
+2013,N Mex State ,0.571
+2013,U Mass ,0.571
+2013,Valparaiso ,0.567
+2013,Alabama ,0.565
+2013,Baylor ,0.564
+2013,Ste F Austin ,0.563
+2013,Stanford ,0.563
+2013,Detroit ,0.562
+2013,Charlotte ,0.561
+2013,Virginia ,0.561
+2013,BYU ,0.559
+2013,Wyoming ,0.559
+2013,Air Force ,0.558
+2013,Iowa ,0.558
+2013,E Kentucky ,0.558
+2013,Davidson ,0.558
+2013,Arkansas ,0.557
+2013,Ohio ,0.557
+2013,Indiana St ,0.557
+2013,S Dakota St ,0.556
+2013,Xavier ,0.555
+2013,N Dakota St ,0.555
+2013,Maryland ,0.554
+2013,Stony Brook ,0.553
+2013,St Johns ,0.553
+2013,N Iowa ,0.553
+2013,St Josephs ,0.553
+2013,Providence ,0.552
+2013,Richmond ,0.552
+2013,Florida St ,0.551
+2013,Montana ,0.551
+2013,Washington ,0.548
+2013,LSU ,0.547
+2013,Arizona St ,0.546
+2013,Harvard ,0.546
+2013,Fla Gulf Cst ,0.546
+2013,Weber State ,0.545
+2013,E Carolina ,0.545
+2013,NW State ,0.543
+2013,Texas A&M ,0.542
+2013,TX El Paso ,0.542
+2013,Central FL ,0.541
+2013,Loyola-MD ,0.540
+2013,Santa Clara ,0.540
+2013,Nebraska ,0.540
+2013,Utah State ,0.539
+2013,USC ,0.538
+2013,Evansville ,0.536
+2013,TN State ,0.534
+2013,Iona ,0.534
+2013,Dayton ,0.534
+2013,Rutgers ,0.534
+2013,Pacific ,0.533
+2013,Lg Beach St ,0.533
+2013,Lehigh ,0.533
+2013,Purdue ,0.531
+2013,Texas ,0.530
+2013,Canisius ,0.529
+2013,Murray St ,0.529
+2013,Illinois St ,0.528
+2013,Boston Col ,0.527
+2013,Niagara ,0.526
+2013,Mt St Marys ,0.526
+2013,W Illinois ,0.525
+2013,Mercer ,0.525
+2013,Rob Morris ,0.525
+2013,Vermont ,0.525
+2013,W Virginia ,0.524
+2013,Florida Intl ,0.524
+2013,Fresno St ,0.524
+2013,Georgia ,0.523
+2013,Wagner ,0.521
+2013,S Florida ,0.521
+2013,Vanderbilt ,0.521
+2013,GA Tech ,0.521
+2013,Delaware ,0.521
+2013,Oakland ,0.521
+2013,Princeton ,0.520
+2013,TX-Arlington ,0.520
+2013,St Bonavent ,0.520
+2013,Geo Wshgtn ,0.519
+2013,W Michigan ,0.519
+2013,Col Charlestn ,0.518
+2013,Seton Hall ,0.518
+2013,Wright State ,0.517
+2013,NC Central ,0.517
+2013,Tulsa ,0.517
+2013,Oral Roberts ,0.516
+2013,Drake ,0.516
+2013,Rider ,0.515
+2013,Kent State ,0.514
+2013,Boston U ,0.514
+2013,Arkansas St ,0.513
+2013,Towson ,0.513
+2013,UC Irvine ,0.513
+2013,UAB ,0.513
+2013,Jksnville St ,0.513
+2013,Savannah St ,0.511
+2013,Geo Mason ,0.511
+2013,Bryant ,0.510
+2013,Lafayette ,0.510
+2013,San Diego ,0.508
+2013,S Alabama ,0.508
+2013,Cal Poly ,0.508
+2013,Albany ,0.508
+2013,Nevada ,0.507
+2013,Northeastrn ,0.507
+2013,Northwestern ,0.507
+2013,Wake Forest ,0.506
+2013,VA Tech ,0.506
+2013,Norfolk St ,0.505
+2013,WI-Grn Bay ,0.505
+2013,IL-Chicago ,0.504
+2013,Fairfield ,0.504
+2013,Utah ,0.502
+2013,San Fransco ,0.502
+2013,W Kentucky ,0.501
+2013,Elon ,0.501
+2013,AR Lit Rock ,0.500
+2013,Morehead St ,0.499
+2013,Clemson ,0.499
+2013,LIU-Brooklyn ,0.497
+2013,Oregon St ,0.496
+2013,Penn State ,0.495
+2013,Charl South ,0.493
+2013,TX Southern ,0.493
+2013,Hartford ,0.492
+2013,Wash State ,0.490
+2013,Youngs St ,0.490
+2013,Tulane ,0.490
+2013,Southern ,0.489
+2013,Manhattan ,0.489
+2013,Bradley ,0.489
+2013,S Illinois ,0.486
+2013,Quinnipiac ,0.486
+2013,Houston ,0.485
+2013,Gard-Webb ,0.485
+2013,Toledo ,0.485
+2013,Idaho ,0.484
+2013,Rhode Island ,0.483
+2013,Yale ,0.482
+2013,DePaul ,0.482
+2013,James Mad ,0.481
+2013,Central Conn ,0.481
+2013,Cleveland St ,0.480
+2013,Marshall ,0.479
+2013,Army ,0.478
+2013,Missouri St ,0.477
+2013,Ark Pine Bl ,0.476
+2013,Drexel ,0.475
+2013,St Fran (NY) ,0.475
+2013,Hawaii ,0.474
+2013,Georgia St ,0.473
+2013,S Carolina ,0.473
+2013,Pepperdine ,0.471
+2013,Loyola Mymt ,0.471
+2013,SE Missouri ,0.471
+2013,S Methodist ,0.470
+2013,Duquesne ,0.469
+2013,NC-Asheville ,0.469
+2013,LA Lafayette ,0.467
+2013,Stetson ,0.467
+2013,Loyola-Chi ,0.467
+2013,Ball State ,0.466
+2013,Fla Atlantic ,0.466
+2013,Fordham ,0.465
+2013,SC Upstate ,0.465
+2013,N Florida ,0.465
+2013,Buffalo ,0.463
+2013,TX Christian ,0.462
+2013,North Dakota ,0.462
+2013,Portland ,0.462
+2013,UC Davis ,0.462
+2013,Texas Tech ,0.462
+2013,E Michigan ,0.460
+2013,Miss State ,0.459
+2013,SE Louisiana ,0.458
+2013,CS Bakersfld ,0.458
+2013,Lipscomb ,0.457
+2013,Sam Hous St ,0.456
+2013,Brown ,0.455
+2013,UCSB ,0.455
+2013,TN Tech ,0.455
+2013,South Dakota ,0.455
+2013,Cal St Nrdge ,0.454
+2013,McNeese St ,0.454
+2013,W Carolina ,0.453
+2013,Wofford ,0.452
+2013,Sacred Hrt ,0.451
+2013,San Jose St ,0.451
+2013,Cornell ,0.450
+2013,Auburn ,0.450
+2013,Morgan St ,0.450
+2013,NC A&T ,0.450
+2013,North Texas ,0.450
+2013,Holy Cross ,0.449
+2013,Bowling Grn ,0.448
+2013,Colgate ,0.447
+2013,High Point ,0.447
+2013,Central Mich ,0.445
+2013,IPFW ,0.445
+2013,CS Fullerton ,0.445
+2013,Marist ,0.445
+2013,N Arizona ,0.445
+2013,Winthrop ,0.445
+2013,Coastal Car ,0.444
+2013,App State ,0.444
+2013,N Kentucky ,0.443
+2013,Maine ,0.442
+2013,GA Southern ,0.442
+2013,Miami (OH) ,0.441
+2013,Wm & Mary ,0.441
+2013,Delaware St ,0.441
+2013,E Tenn St ,0.441
+2013,N Colorado ,0.439
+2013,Columbia ,0.439
+2013,American ,0.439
+2013,U Penn ,0.438
+2013,Troy ,0.438
+2013,Monmouth ,0.438
+2013,Jacksonville ,0.436
+2013,Hampton ,0.436
+2013,E Illinois ,0.435
+2013,Sac State ,0.435
+2013,Central Ark ,0.434
+2013,TX-San Ant ,0.431
+2013,UMKC ,0.430
+2013,Neb Omaha ,0.430
+2013,Texas State ,0.429
+2013,Chattanooga ,0.429
+2013,St Peters ,0.429
+2013,Campbell ,0.428
+2013,N Hampshire ,0.427
+2013,Samford ,0.427
+2013,Beth-Cook ,0.425
+2013,Nicholls St ,0.424
+2013,Liberty ,0.423
+2013,Dartmouth ,0.423
+2013,Seattle ,0.422
+2013,Siena ,0.422
+2013,NJIT ,0.421
+2013,Utah Val St ,0.419
+2013,Maryland BC ,0.419
+2013,NC-Wilmgton ,0.417
+2013,VA Military ,0.416
+2013,TX-Pan Am ,0.415
+2013,F Dickinson ,0.415
+2013,SIU Edward ,0.415
+2013,Coppin State ,0.414
+2013,S Utah ,0.414
+2013,Alcorn State ,0.413
+2013,LA Monroe ,0.413
+2013,Montana St ,0.413
+2013,Jackson St ,0.411
+2013,WI-Milwkee ,0.411
+2013,Navy ,0.411
+2013,TN Martin ,0.410
+2013,Radford ,0.406
+2013,E Washingtn ,0.405
+2013,Old Dominion ,0.404
+2013,Austin Peay ,0.403
+2013,St Fran (PA) ,0.403
+2013,Houston Bap ,0.403
+2013,TX A&M-CC ,0.402
+2013,Rice ,0.400
+2013,Prairie View ,0.399
+2013,Hofstra ,0.399
+2013,Chicago St ,0.394
+2013,Alabama St ,0.394
+2013,IUPUI ,0.392
+2013,NC-Grnsboro ,0.392
+2013,Alab A&M ,0.385
+2013,Citadel ,0.385
+2013,N Illinois ,0.384
+2013,Longwood ,0.382
+2013,Florida A&M ,0.382
+2013,Howard ,0.382
+2013,Lamar ,0.375
+2013,Binghamton ,0.375
+2013,Idaho State ,0.373
+2013,UC Riverside ,0.373
+2013,Portland St ,0.372
+2013,Presbyterian ,0.369
+2013,Kennesaw St ,0.367
+2013,S Car State ,0.365
+2013,Furman ,0.364
+2013,Miss Val St ,0.355
+2013,Maryland ES ,0.353
+2013,New Orleans ,0.347
+2013,Grambling St ,0.304
+2014,Arizona ,0.676
+2014,Florida ,0.671
+2014,Kansas ,0.670
+2014,Villanova ,0.659
+2014,Wichita St ,0.654
+2014,Wisconsin ,0.647
+2014,Creighton ,0.641
+2014,Duke ,0.639
+2014,Michigan ,0.632
+2014,Syracuse ,0.632
+2014,Iowa State ,0.632
+2014,Virginia ,0.628
+2014,Cincinnati ,0.628
+2014,VCU ,0.626
+2014,San Diego St ,0.625
+2014,Saint Louis ,0.619
+2014,U Mass ,0.618
+2014,New Mexico ,0.617
+2014,Oklahoma ,0.616
+2014,Kentucky ,0.616
+2014,N Carolina ,0.615
+2014,Louisville ,0.614
+2014,Michigan St ,0.614
+2014,Ohio State ,0.613
+2014,Oregon ,0.611
+2014,Gonzaga ,0.611
+2014,UCLA ,0.610
+2014,Connecticut ,0.607
+2014,Memphis ,0.605
+2014,Geo Wshgtn ,0.605
+2014,BYU ,0.601
+2014,Colorado ,0.601
+2014,Texas ,0.601
+2014,Baylor ,0.600
+2014,S Mississippi ,0.597
+2014,Toledo ,0.595
+2014,Arizona St ,0.593
+2014,N Dakota St ,0.592
+2014,Dayton ,0.592
+2014,Oklahoma St ,0.589
+2014,St Josephs ,0.588
+2014,Nebraska ,0.588
+2014,S Methodist ,0.587
+2014,Tennessee ,0.586
+2014,Stanford ,0.586
+2014,Pittsburgh ,0.585
+2014,Kansas St ,0.585
+2014,Harvard ,0.583
+2014,Minnesota ,0.582
+2014,Missouri ,0.579
+2014,Iowa ,0.577
+2014,Xavier ,0.576
+2014,Providence ,0.575
+2014,Georgetown ,0.575
+2014,California ,0.575
+2014,Belmont ,0.573
+2014,St Johns ,0.572
+2014,Arkansas ,0.572
+2014,Iona ,0.572
+2014,Florida St ,0.572
+2014,Middle Tenn ,0.571
+2014,St Marys ,0.570
+2014,WI-Grn Bay ,0.569
+2014,San Fransco ,0.568
+2014,Ste F Austin ,0.567
+2014,LA Tech ,0.565
+2014,NC State ,0.565
+2014,Illinois ,0.564
+2014,Manhattan ,0.564
+2014,LSU ,0.563
+2014,Richmond ,0.562
+2014,Indiana St ,0.562
+2014,Georgia ,0.561
+2014,Delaware ,0.560
+2014,Maryland ,0.559
+2014,Clemson ,0.558
+2014,Georgia St ,0.558
+2014,Boise State ,0.558
+2014,N Mex State ,0.557
+2014,Mercer ,0.556
+2014,Ohio ,0.555
+2014,Boston U ,0.555
+2014,Utah ,0.555
+2014,W Virginia ,0.554
+2014,Marquette ,0.553
+2014,Mississippi ,0.549
+2014,Missouri St ,0.548
+2014,W Michigan ,0.548
+2014,La Salle ,0.548
+2014,Cleveland St ,0.547
+2014,Tulsa ,0.547
+2014,Indiana ,0.546
+2014,Washington ,0.545
+2014,Buffalo ,0.545
+2014,E Michigan ,0.544
+2014,Oregon St ,0.543
+2014,TX El Paso ,0.542
+2014,Canisius ,0.541
+2014,UCSB ,0.541
+2014,Akron ,0.541
+2014,E Kentucky ,0.540
+2014,Towson ,0.538
+2014,Quinnipiac ,0.538
+2014,UC Irvine ,0.535
+2014,Miami (FL) ,0.534
+2014,St Bonavent ,0.533
+2014,Vermont ,0.533
+2014,UNLV ,0.533
+2014,Vanderbilt ,0.533
+2014,NC Central ,0.533
+2014,LA Lafayette ,0.532
+2014,Penn State ,0.531
+2014,Alabama ,0.530
+2014,Texas Tech ,0.529
+2014,N Iowa ,0.529
+2014,Wm & Mary ,0.528
+2014,Wake Forest ,0.526
+2014,Rob Morris ,0.526
+2014,Fresno St ,0.525
+2014,Utah State ,0.524
+2014,Princeton ,0.523
+2014,W Kentucky ,0.522
+2014,Wyoming ,0.521
+2014,IPFW ,0.521
+2014,Notre Dame ,0.521
+2014,Davidson ,0.518
+2014,Holy Cross ,0.518
+2014,S Dakota St ,0.518
+2014,Columbia ,0.517
+2014,Sam Hous St ,0.516
+2014,Northwestern ,0.516
+2014,Utah Val St ,0.516
+2014,Nevada ,0.516
+2014,Drexel ,0.516
+2014,American ,0.516
+2014,Butler ,0.515
+2014,Illinois St ,0.515
+2014,Pacific ,0.515
+2014,WI-Milwkee ,0.515
+2014,Texas A&M ,0.515
+2014,Purdue ,0.514
+2014,UAB ,0.513
+2014,Murray St ,0.512
+2014,Denver ,0.512
+2014,Morehead St ,0.512
+2014,Geo Mason ,0.511
+2014,Seton Hall ,0.509
+2014,Fla Gulf Cst ,0.509
+2014,GA Tech ,0.508
+2014,Rhode Island ,0.508
+2014,Yale ,0.508
+2014,Hawaii ,0.505
+2014,Stony Brook ,0.505
+2014,San Diego ,0.505
+2014,S Carolina ,0.505
+2014,Auburn ,0.504
+2014,Pepperdine ,0.504
+2014,Charlotte ,0.504
+2014,Lg Beach St ,0.503
+2014,DePaul ,0.502
+2014,Wofford ,0.502
+2014,Temple ,0.502
+2014,Miami (OH) ,0.502
+2014,Houston ,0.502
+2014,Wright State ,0.501
+2014,Southern ,0.501
+2014,Elon ,0.501
+2014,NW State ,0.500
+2014,SC Upstate ,0.499
+2014,Oral Roberts ,0.499
+2014,Weber State ,0.499
+2014,Old Dominion ,0.497
+2014,North Texas ,0.497
+2014,USC ,0.497
+2014,Bucknell ,0.497
+2014,Montana ,0.495
+2014,Colorado St ,0.495
+2014,High Point ,0.495
+2014,Winthrop ,0.494
+2014,Drake ,0.493
+2014,Portland ,0.493
+2014,Bryant ,0.492
+2014,Loyola Mymt ,0.491
+2014,AR Lit Rock ,0.491
+2014,Bowling Grn ,0.491
+2014,Duquesne ,0.490
+2014,Boston Col ,0.489
+2014,Valparaiso ,0.489
+2014,Arkansas St ,0.489
+2014,Oakland ,0.488
+2014,St Fran (NY) ,0.487
+2014,N Florida ,0.487
+2014,Coastal Car ,0.486
+2014,Hampton ,0.485
+2014,Siena ,0.485
+2014,Kent State ,0.484
+2014,S Illinois ,0.484
+2014,Albany ,0.482
+2014,Rider ,0.482
+2014,Florida Intl ,0.482
+2014,NC-Asheville ,0.481
+2014,Rutgers ,0.481
+2014,Grand Canyon ,0.480
+2014,W Carolina ,0.480
+2014,E Tenn St ,0.480
+2014,TX-Arlington ,0.480
+2014,Lipscomb ,0.480
+2014,Wash State ,0.480
+2014,VA Military ,0.479
+2014,N Illinois ,0.479
+2014,Evansville ,0.479
+2014,TN Tech ,0.479
+2014,Neb Omaha ,0.479
+2014,E Carolina ,0.479
+2014,Mt St Marys ,0.478
+2014,Santa Clara ,0.478
+2014,S Florida ,0.478
+2014,TX Christian ,0.476
+2014,Wagner ,0.476
+2014,Tulane ,0.476
+2014,N Colorado ,0.475
+2014,Northeastrn ,0.475
+2014,Central FL ,0.473
+2014,North Dakota ,0.472
+2014,E Washingtn ,0.471
+2014,Fordham ,0.471
+2014,Detroit ,0.471
+2014,LA Monroe ,0.470
+2014,Brown ,0.469
+2014,St Peters ,0.468
+2014,Hartford ,0.467
+2014,James Mad ,0.467
+2014,Youngs St ,0.466
+2014,Army ,0.466
+2014,Morgan St ,0.466
+2014,TX A&M-CC ,0.465
+2014,VA Tech ,0.465
+2014,N Arizona ,0.465
+2014,Incarnate Word ,0.464
+2014,Air Force ,0.463
+2014,Norfolk St ,0.463
+2014,Radford ,0.463
+2014,Col Charlestn ,0.462
+2014,Lehigh ,0.462
+2014,Gard-Webb ,0.461
+2014,Miss State ,0.461
+2014,Chattanooga ,0.461
+2014,UMKC ,0.461
+2014,Marist ,0.460
+2014,Chicago St ,0.458
+2014,Cal Poly ,0.456
+2014,SE Missouri ,0.455
+2014,South Dakota ,0.454
+2014,Idaho ,0.453
+2014,Lafayette ,0.453
+2014,Colgate ,0.453
+2014,Portland St ,0.452
+2014,Alabama St ,0.452
+2014,TX Southern ,0.451
+2014,McNeese St ,0.451
+2014,New Orleans ,0.450
+2014,Sac State ,0.450
+2014,Nicholls St ,0.449
+2014,Ark Pine Bl ,0.448
+2014,Fla Atlantic ,0.447
+2014,Bradley ,0.447
+2014,Dartmouth ,0.445
+2014,Cal St Nrdge ,0.444
+2014,Coppin State ,0.443
+2014,Seattle ,0.443
+2014,Charl South ,0.439
+2014,F Dickinson ,0.439
+2014,Alab A&M ,0.438
+2014,Savannah St ,0.437
+2014,Marshall ,0.437
+2014,Loyola-MD ,0.435
+2014,Montana St ,0.435
+2014,San Jose St ,0.435
+2014,Hofstra ,0.434
+2014,NC-Wilmgton ,0.433
+2014,S Alabama ,0.432
+2014,Troy ,0.432
+2014,Massachusetts Lowell ,0.432
+2014,Jacksonville ,0.431
+2014,CS Fullerton ,0.430
+2014,Monmouth ,0.429
+2014,Jackson St ,0.429
+2014,CS Bakersfld ,0.429
+2014,W Illinois ,0.428
+2014,U Penn ,0.428
+2014,Idaho State ,0.427
+2014,Rice ,0.426
+2014,E Illinois ,0.426
+2014,LIU-Brooklyn ,0.425
+2014,Loyola-Chi ,0.425
+2014,Fairfield ,0.425
+2014,Central Conn ,0.424
+2014,Central Mich ,0.423
+2014,St Fran (PA) ,0.422
+2014,Florida A&M ,0.422
+2014,TX-San Ant ,0.422
+2014,SE Louisiana ,0.421
+2014,TN State ,0.419
+2014,Niagara ,0.419
+2014,NC-Grnsboro ,0.419
+2014,GA Southern ,0.418
+2014,Austin Peay ,0.417
+2014,Texas State ,0.416
+2014,NJIT ,0.414
+2014,TX-Pan Am ,0.414
+2014,Ball State ,0.413
+2014,Samford ,0.412
+2014,Liberty ,0.411
+2014,N Kentucky ,0.410
+2014,Alcorn State ,0.408
+2014,Campbell ,0.406
+2014,Jksnville St ,0.406
+2014,IL-Chicago ,0.405
+2014,SIU Edward ,0.404
+2014,UC Riverside ,0.403
+2014,Navy ,0.400
+2014,Prairie View ,0.400
+2014,IUPUI ,0.395
+2014,Kennesaw St ,0.393
+2014,Binghamton ,0.392
+2014,S Car State ,0.392
+2014,UC Davis ,0.392
+2014,Delaware St ,0.390
+2014,TN Martin ,0.389
+2014,Maine ,0.388
+2014,Central Ark ,0.388
+2014,Maryland BC ,0.387
+2014,Stetson ,0.387
+2014,NC A&T ,0.387
+2014,Cornell ,0.385
+2014,App State ,0.384
+2014,Howard ,0.382
+2014,Longwood ,0.380
+2014,Sacred Hrt ,0.378
+2014,Furman ,0.378
+2014,N Hampshire ,0.376
+2014,Lamar ,0.371
+2014,Houston Bap ,0.369
+2014,Abilene Christian ,0.369
+2014,Miss Val St ,0.363
+2014,Beth-Cook ,0.361
+2014,Citadel ,0.357
+2014,S Utah ,0.355
+2014,Maryland ES ,0.352
+2014,Presbyterian ,0.342
+2014,Grambling St ,0.341
+2015,Kentucky ,0.679
+2015,Kansas ,0.674
+2015,Villanova ,0.668
+2015,Wisconsin ,0.666
+2015,Duke ,0.665
+2015,Virginia ,0.664
+2015,Arizona ,0.658
+2015,Gonzaga ,0.640
+2015,Maryland ,0.632
+2015,Baylor ,0.631
+2015,N Iowa ,0.623
+2015,Iowa State ,0.623
+2015,Oklahoma ,0.620
+2015,S Methodist ,0.619
+2015,N Carolina ,0.619
+2015,Louisville ,0.617
+2015,Wichita St ,0.617
+2015,Utah ,0.617
+2015,Georgetown ,0.613
+2015,VCU ,0.612
+2015,W Virginia ,0.612
+2015,Arkansas ,0.608
+2015,Providence ,0.606
+2015,Butler ,0.602
+2015,Notre Dame ,0.601
+2015,Colorado St ,0.599
+2015,Michigan St ,0.597
+2015,San Diego St ,0.597
+2015,St Johns ,0.593
+2015,Davidson ,0.592
+2015,Oregon ,0.592
+2015,Buffalo ,0.589
+2015,Temple ,0.589
+2015,Dayton ,0.588
+2015,Cincinnati ,0.588
+2015,Old Dominion ,0.587
+2015,BYU ,0.586
+2015,Xavier ,0.586
+2015,Boise State ,0.586
+2015,Iowa ,0.585
+2015,Georgia ,0.585
+2015,Ohio State ,0.585
+2015,Texas ,0.583
+2015,Ste F Austin ,0.582
+2015,NC State ,0.581
+2015,Oklahoma St ,0.580
+2015,Tulsa ,0.580
+2015,LSU ,0.577
+2015,Wofford ,0.576
+2015,Mississippi ,0.574
+2015,UCLA ,0.573
+2015,LA Tech ,0.573
+2015,Iona ,0.572
+2015,Richmond ,0.571
+2015,Texas A&M ,0.569
+2015,Purdue ,0.568
+2015,Stanford ,0.567
+2015,Valparaiso ,0.566
+2015,Indiana ,0.566
+2015,WI-Grn Bay ,0.566
+2015,Illinois ,0.565
+2015,UC Davis ,0.565
+2015,Miami (FL) ,0.565
+2015,Harvard ,0.565
+2015,Yale ,0.564
+2015,Illinois St ,0.563
+2015,Murray St ,0.562
+2015,Georgia St ,0.561
+2015,Rhode Island ,0.561
+2015,St Marys ,0.560
+2015,Pittsburgh ,0.560
+2015,Syracuse ,0.559
+2015,TX El Paso ,0.557
+2015,U Mass ,0.555
+2015,Central Mich ,0.555
+2015,Florida ,0.553
+2015,Toledo ,0.552
+2015,Alabama ,0.551
+2015,Connecticut ,0.550
+2015,Geo Wshgtn ,0.549
+2015,Memphis ,0.548
+2015,Seton Hall ,0.547
+2015,Kansas St ,0.547
+2015,UCSB ,0.546
+2015,Arizona St ,0.546
+2015,Kent State ,0.546
+2015,Northeastrn ,0.545
+2015,S Dakota St ,0.544
+2015,Michigan ,0.544
+2015,E Washingtn ,0.543
+2015,Vanderbilt ,0.543
+2015,High Point ,0.543
+2015,Sam Hous St ,0.542
+2015,Wm & Mary ,0.540
+2015,Clemson ,0.539
+2015,S Carolina ,0.538
+2015,Minnesota ,0.538
+2015,Wyoming ,0.537
+2015,Lg Beach St ,0.536
+2015,UNLV ,0.536
+2015,Bowling Grn ,0.535
+2015,La Salle ,0.535
+2015,W Kentucky ,0.535
+2015,California ,0.534
+2015,Tennessee ,0.534
+2015,N Dakota St ,0.534
+2015,Stony Brook ,0.532
+2015,Belmont ,0.532
+2015,W Michigan ,0.531
+2015,Albany ,0.531
+2015,UC Irvine ,0.530
+2015,NC Central ,0.529
+2015,Washington ,0.529
+2015,Northwestern ,0.528
+2015,N Mex State ,0.528
+2015,Chattanooga ,0.527
+2015,Oregon St ,0.526
+2015,St Bonavent ,0.526
+2015,Florida St ,0.526
+2015,Evansville ,0.525
+2015,Penn State ,0.525
+2015,Colorado ,0.525
+2015,Loyola-Chi ,0.524
+2015,GA Southern ,0.524
+2015,Wake Forest ,0.522
+2015,GA Tech ,0.522
+2015,Lafayette ,0.521
+2015,Coastal Car ,0.520
+2015,Pepperdine ,0.519
+2015,LA Monroe ,0.519
+2015,Cleveland St ,0.519
+2015,TX Southern ,0.519
+2015,Utah State ,0.518
+2015,TX Christian ,0.518
+2015,Fla Gulf Cst ,0.517
+2015,Nebraska ,0.517
+2015,American ,0.516
+2015,Akron ,0.515
+2015,Bucknell ,0.515
+2015,Rider ,0.514
+2015,NC-Wilmgton ,0.514
+2015,Gard-Webb ,0.514
+2015,Portland ,0.513
+2015,Creighton ,0.513
+2015,James Mad ,0.512
+2015,Montana ,0.512
+2015,E Michigan ,0.512
+2015,LA Lafayette ,0.511
+2015,Sac State ,0.511
+2015,San Diego ,0.510
+2015,Wash State ,0.510
+2015,Radford ,0.509
+2015,Norfolk St ,0.509
+2015,New Mexico ,0.509
+2015,E Kentucky ,0.509
+2015,St Fran (NY) ,0.508
+2015,Incarnate Word ,0.508
+2015,Oakland ,0.508
+2015,N Florida ,0.508
+2015,NJIT ,0.507
+2015,Marquette ,0.507
+2015,Oral Roberts ,0.506
+2015,Charl South ,0.506
+2015,Manhattan ,0.505
+2015,Boston Col ,0.505
+2015,NW State ,0.504
+2015,N Arizona ,0.503
+2015,Auburn ,0.503
+2015,Rutgers ,0.502
+2015,Hawaii ,0.501
+2015,St Josephs ,0.501
+2015,E Illinois ,0.500
+2015,Hofstra ,0.499
+2015,Lehigh ,0.498
+2015,TX-Arlington ,0.498
+2015,UAB ,0.498
+2015,Texas Tech ,0.498
+2015,Monmouth ,0.498
+2015,Middle Tenn ,0.496
+2015,Canisius ,0.496
+2015,TN Martin ,0.496
+2015,DePaul ,0.496
+2015,St Fran (PA) ,0.496
+2015,Rob Morris ,0.494
+2015,Fresno St ,0.494
+2015,N Illinois ,0.494
+2015,San Fransco ,0.493
+2015,Mt St Marys ,0.493
+2015,Indiana St ,0.492
+2015,Maryland ES ,0.492
+2015,Dartmouth ,0.492
+2015,Bryant ,0.491
+2015,Cal Poly ,0.490
+2015,N Hampshire ,0.490
+2015,Colgate ,0.489
+2015,E Tenn St ,0.489
+2015,Columbia ,0.487
+2015,Charlotte ,0.487
+2015,Princeton ,0.487
+2015,Boston U ,0.486
+2015,Detroit ,0.486
+2015,Tulane ,0.485
+2015,Holy Cross ,0.485
+2015,Santa Clara ,0.485
+2015,Morehead St ,0.484
+2015,Vermont ,0.484
+2015,Miss State ,0.483
+2015,SC Upstate ,0.482
+2015,TX A&M-CC ,0.482
+2015,WI-Milwkee ,0.482
+2015,Mercer ,0.481
+2015,South Dakota ,0.481
+2015,Winthrop ,0.481
+2015,USC ,0.480
+2015,Missouri ,0.479
+2015,Geo Mason ,0.479
+2015,North Texas ,0.477
+2015,IPFW ,0.474
+2015,Delaware St ,0.474
+2015,Portland St ,0.471
+2015,W Carolina ,0.471
+2015,Florida Intl ,0.471
+2015,Duquesne ,0.470
+2015,TX-San Ant ,0.469
+2015,Miami (OH) ,0.468
+2015,UC Riverside ,0.468
+2015,Quinnipiac ,0.468
+2015,Ohio ,0.467
+2015,Lamar ,0.467
+2015,Cornell ,0.467
+2015,VA Tech ,0.466
+2015,St Peters ,0.466
+2015,E Carolina ,0.465
+2015,Denver ,0.465
+2015,Army ,0.464
+2015,N Colorado ,0.463
+2015,Central FL ,0.462
+2015,Pacific ,0.461
+2015,Howard ,0.461
+2015,Texas State ,0.460
+2015,Missouri St ,0.460
+2015,Sacred Hrt ,0.460
+2015,Brown ,0.459
+2015,Hartford ,0.459
+2015,Drexel ,0.458
+2015,NC-Asheville ,0.458
+2015,Fordham ,0.458
+2015,App State ,0.457
+2015,Southern ,0.457
+2015,Houston ,0.457
+2015,Navy ,0.457
+2015,LIU-Brooklyn ,0.457
+2015,Delaware ,0.456
+2015,U Penn ,0.456
+2015,Air Force ,0.456
+2015,Rice ,0.455
+2015,Alabama St ,0.455
+2015,Weber State ,0.454
+2015,Elon ,0.453
+2015,Saint Louis ,0.453
+2015,IUPUI ,0.452
+2015,Idaho ,0.452
+2015,Wright State ,0.452
+2015,N Kentucky ,0.452
+2015,Siena ,0.452
+2015,Loyola Mymt ,0.451
+2015,Massachusetts Lowell ,0.451
+2015,AR Lit Rock ,0.450
+2015,Drake ,0.449
+2015,Prairie View ,0.448
+2015,Loyola-MD ,0.447
+2015,S Florida ,0.446
+2015,Lipscomb ,0.446
+2015,Grand Canyon ,0.443
+2015,Arkansas St ,0.441
+2015,S Alabama ,0.440
+2015,S Illinois ,0.440
+2015,McNeese St ,0.440
+2015,Ball State ,0.439
+2015,Towson ,0.437
+2015,S Mississippi ,0.435
+2015,VA Military ,0.435
+2015,Cal St Nrdge ,0.435
+2015,SE Missouri ,0.435
+2015,Houston Bap ,0.435
+2015,Bradley ,0.435
+2015,Hampton ,0.435
+2015,Niagara ,0.434
+2015,TN Tech ,0.433
+2015,Marshall ,0.432
+2015,IL-Chicago ,0.432
+2015,Youngs St ,0.431
+2015,SIU Edward ,0.431
+2015,UMKC ,0.431
+2015,Furman ,0.431
+2015,Wagner ,0.430
+2015,Seattle ,0.428
+2015,Col Charlestn ,0.428
+2015,Neb Omaha ,0.427
+2015,Fairfield ,0.427
+2015,Nevada ,0.426
+2015,Jksnville St ,0.424
+2015,Utah Val St ,0.424
+2015,Samford ,0.424
+2015,S Utah ,0.423
+2015,Fla Atlantic ,0.423
+2015,Ark Pine Bl ,0.422
+2015,CS Bakersfld ,0.421
+2015,North Dakota ,0.419
+2015,NC-Grnsboro ,0.419
+2015,Nicholls St ,0.415
+2015,F Dickinson ,0.413
+2015,Troy ,0.412
+2015,CS Fullerton ,0.412
+2015,Presbyterian ,0.412
+2015,Longwood ,0.410
+2015,Marist ,0.409
+2015,Austin Peay ,0.409
+2015,Jackson St ,0.409
+2015,Coppin State ,0.408
+2015,Kennesaw St ,0.407
+2015,Campbell ,0.406
+2015,S Car State ,0.406
+2015,Abilene Christian ,0.405
+2015,Montana St ,0.404
+2015,New Orleans ,0.403
+2015,Citadel ,0.402
+2015,W Illinois ,0.400
+2015,SE Louisiana ,0.400
+2015,Alab A&M ,0.395
+2015,Savannah St ,0.394
+2015,TX-Pan Am ,0.393
+2015,Binghamton ,0.392
+2015,Chicago St ,0.392
+2015,San Jose St ,0.386
+2015,Jacksonville ,0.382
+2015,NC A&T ,0.381
+2015,Stetson ,0.381
+2015,Maine ,0.381
+2015,Morgan St ,0.379
+2015,Beth-Cook ,0.377
+2015,Idaho State ,0.373
+2015,Central Conn ,0.372
+2015,TN State ,0.371
+2015,Maryland BC ,0.370
+2015,Miss Val St ,0.369
+2015,Liberty ,0.356
+2015,Alcorn State ,0.348
+2015,Central Ark ,0.339
+2015,Florida A&M ,0.326
+2015,Grambling St ,0.312
+2016,Kansas ,0.672
+2016,Virginia ,0.657
+2016,Villanova ,0.657
+2016,Oregon ,0.653
+2016,Oklahoma ,0.646
+2016,Xavier ,0.645
+2016,Miami (FL) ,0.642
+2016,Utah ,0.636
+2016,N Carolina ,0.636
+2016,W Virginia ,0.631
+2016,S Methodist ,0.624
+2016,Maryland ,0.622
+2016,Kentucky ,0.621
+2016,Michigan St ,0.620
+2016,California ,0.619
+2016,Purdue ,0.619
+2016,Louisville ,0.617
+2016,Duke ,0.615
+2016,Iowa State ,0.613
+2016,Dayton ,0.612
+2016,Indiana ,0.612
+2016,Texas A&M ,0.611
+2016,Iowa ,0.606
+2016,Texas ,0.606
+2016,Arizona ,0.602
+2016,Baylor ,0.600
+2016,St Bonavent ,0.599
+2016,Oregon St ,0.597
+2016,St Josephs ,0.596
+2016,Wisconsin ,0.595
+2016,Colorado ,0.595
+2016,S Dakota St ,0.593
+2016,Akron ,0.593
+2016,Seton Hall ,0.593
+2016,Texas Tech ,0.592
+2016,St Marys ,0.588
+2016,Notre Dame ,0.587
+2016,Cincinnati ,0.587
+2016,Princeton ,0.586
+2016,VCU ,0.586
+2016,USC ,0.586
+2016,San Diego St ,0.585
+2016,Yale ,0.584
+2016,Providence ,0.584
+2016,NC-Wilmgton ,0.583
+2016,Butler ,0.583
+2016,Gonzaga ,0.583
+2016,Wichita St ,0.583
+2016,Pittsburgh ,0.583
+2016,Vanderbilt ,0.581
+2016,AR Lit Rock ,0.581
+2016,Valparaiso ,0.581
+2016,Chattanooga ,0.580
+2016,Tulsa ,0.579
+2016,Monmouth ,0.579
+2016,S Carolina ,0.579
+2016,Temple ,0.578
+2016,Hofstra ,0.578
+2016,Florida ,0.577
+2016,Connecticut ,0.577
+2016,Davidson ,0.571
+2016,Geo Wshgtn ,0.570
+2016,GA Tech ,0.569
+2016,Stony Brook ,0.568
+2016,UC Irvine ,0.568
+2016,Wm & Mary ,0.568
+2016,Michigan ,0.566
+2016,N Iowa ,0.565
+2016,Syracuse ,0.565
+2016,IPFW ,0.565
+2016,Georgia ,0.565
+2016,Alabama ,0.564
+2016,Houston ,0.563
+2016,UAB ,0.562
+2016,Ohio State ,0.561
+2016,Ste F Austin ,0.561
+2016,BYU ,0.561
+2016,Florida St ,0.559
+2016,Washington ,0.559
+2016,Stanford ,0.558
+2016,Iona ,0.557
+2016,Ohio ,0.557
+2016,Fresno St ,0.555
+2016,VA Tech ,0.555
+2016,Kansas St ,0.554
+2016,E Tenn St ,0.554
+2016,TX A&M-CC ,0.551
+2016,Lg Beach St ,0.550
+2016,Mississippi ,0.549
+2016,Middle Tenn ,0.549
+2016,Hawaii ,0.549
+2016,Grand Canyon ,0.548
+2016,Evansville ,0.548
+2016,Boise State ,0.548
+2016,LSU ,0.548
+2016,UCSB ,0.545
+2016,Creighton ,0.545
+2016,Belmont ,0.544
+2016,Arizona St ,0.543
+2016,Siena ,0.542
+2016,TX-Arlington ,0.541
+2016,UCLA ,0.541
+2016,Georgetown ,0.540
+2016,James Mad ,0.539
+2016,Rhode Island ,0.539
+2016,Northwestern ,0.537
+2016,LA Monroe ,0.537
+2016,N Mex State ,0.536
+2016,Northeastrn ,0.536
+2016,Marquette ,0.536
+2016,Albany ,0.536
+2016,Buffalo ,0.536
+2016,E Michigan ,0.535
+2016,LA Tech ,0.534
+2016,WI-Grn Bay ,0.532
+2016,Penn State ,0.532
+2016,Arkansas ,0.532
+2016,Illinois St ,0.531
+2016,Oakland ,0.530
+2016,NC State ,0.530
+2016,Kent State ,0.529
+2016,Nevada ,0.528
+2016,Weber State ,0.528
+2016,N Illinois ,0.528
+2016,Clemson ,0.528
+2016,N Dakota St ,0.527
+2016,Morehead St ,0.527
+2016,New Mexico ,0.526
+2016,Richmond ,0.526
+2016,Winthrop ,0.525
+2016,Columbia ,0.525
+2016,Pepperdine ,0.525
+2016,Marshall ,0.525
+2016,Vermont ,0.524
+2016,TN Tech ,0.524
+2016,CS Bakersfld ,0.523
+2016,Col Charlestn ,0.522
+2016,S Illinois ,0.521
+2016,NC-Asheville ,0.521
+2016,UNLV ,0.519
+2016,Fairfield ,0.518
+2016,Neb Omaha ,0.517
+2016,Tennessee ,0.516
+2016,Wright State ,0.516
+2016,Miss State ,0.516
+2016,Central Mich ,0.515
+2016,Memphis ,0.513
+2016,Utah State ,0.513
+2016,Oral Roberts ,0.512
+2016,Towson ,0.512
+2016,TN State ,0.511
+2016,Montana ,0.511
+2016,Old Dominion ,0.511
+2016,Illinois ,0.510
+2016,Wake Forest ,0.510
+2016,Duquesne ,0.508
+2016,High Point ,0.506
+2016,Elon ,0.506
+2016,N Florida ,0.505
+2016,LA Lafayette ,0.505
+2016,Fordham ,0.504
+2016,Incarnate Word ,0.504
+2016,Georgia St ,0.503
+2016,W Carolina ,0.502
+2016,Lehigh ,0.501
+2016,W Kentucky ,0.500
+2016,Furman ,0.500
+2016,Oklahoma St ,0.500
+2016,TX Christian ,0.500
+2016,Coastal Car ,0.499
+2016,Nebraska ,0.499
+2016,Auburn ,0.499
+2016,Indiana St ,0.499
+2016,Hampton ,0.499
+2016,Murray St ,0.498
+2016,Ball State ,0.498
+2016,Sam Hous St ,0.498
+2016,WI-Milwkee ,0.498
+2016,N Hampshire ,0.496
+2016,TX Southern ,0.496
+2016,U Mass ,0.495
+2016,Toledo ,0.494
+2016,Bucknell ,0.493
+2016,Wagner ,0.491
+2016,IUPUI ,0.490
+2016,Wyoming ,0.490
+2016,Austin Peay ,0.490
+2016,Colorado St ,0.490
+2016,Miami (OH) ,0.489
+2016,Radford ,0.489
+2016,Harvard ,0.488
+2016,Denver ,0.488
+2016,Idaho ,0.487
+2016,DePaul ,0.486
+2016,Mercer ,0.486
+2016,South Dakota ,0.486
+2016,Boston U ,0.485
+2016,Detroit ,0.484
+2016,Geo Mason ,0.483
+2016,W Michigan ,0.483
+2016,E Carolina ,0.482
+2016,Wofford ,0.482
+2016,Saint Louis ,0.481
+2016,F Dickinson ,0.481
+2016,Wash State ,0.481
+2016,TX El Paso ,0.481
+2016,Central FL ,0.480
+2016,NJIT ,0.477
+2016,Bowling Grn ,0.477
+2016,St Peters ,0.477
+2016,S Car State ,0.477
+2016,Army ,0.476
+2016,TN Martin ,0.476
+2016,Gard-Webb ,0.476
+2016,Norfolk St ,0.476
+2016,Fla Gulf Cst ,0.475
+2016,E Kentucky ,0.475
+2016,Southern ,0.474
+2016,Navy ,0.474
+2016,Missouri ,0.472
+2016,Jackson St ,0.470
+2016,Loyola Mymt ,0.470
+2016,Canisius ,0.470
+2016,Air Force ,0.469
+2016,GA Southern ,0.469
+2016,North Dakota ,0.468
+2016,San Fransco ,0.467
+2016,La Salle ,0.466
+2016,E Washingtn ,0.466
+2016,American ,0.466
+2016,S Florida ,0.465
+2016,Manhattan ,0.465
+2016,Houston Bap ,0.465
+2016,St Johns ,0.465
+2016,Charlotte ,0.463
+2016,Missouri St ,0.462
+2016,Cal Poly ,0.462
+2016,Loyola-Chi ,0.460
+2016,NC-Grnsboro ,0.460
+2016,Colgate ,0.460
+2016,Rider ,0.460
+2016,Cornell ,0.458
+2016,S Alabama ,0.458
+2016,Mt St Marys ,0.457
+2016,Portland ,0.457
+2016,Texas State ,0.456
+2016,Drexel ,0.455
+2016,Tulane ,0.454
+2016,Boston Col ,0.454
+2016,Idaho State ,0.452
+2016,Santa Clara ,0.452
+2016,Holy Cross ,0.451
+2016,Samford ,0.450
+2016,Alcorn State ,0.449
+2016,Minnesota ,0.447
+2016,LIU-Brooklyn ,0.447
+2016,Utah Val St ,0.447
+2016,Loyola-MD ,0.446
+2016,W Illinois ,0.446
+2016,Alabama St ,0.446
+2016,Sacred Hrt ,0.445
+2016,Kennesaw St ,0.445
+2016,Massachusetts Lowell ,0.445
+2016,UC Riverside ,0.445
+2016,Montana St ,0.444
+2016,App State ,0.444
+2016,Liberty ,0.444
+2016,St Fran (PA) ,0.444
+2016,Florida Intl ,0.443
+2016,Lipscomb ,0.443
+2016,Pacific ,0.443
+2016,E Illinois ,0.443
+2016,Sac State ,0.442
+2016,UC Davis ,0.441
+2016,Cleveland St ,0.440
+2016,Delaware ,0.439
+2016,Cal St Nrdge ,0.439
+2016,Rice ,0.439
+2016,St Fran (NY) ,0.439
+2016,Portland St ,0.437
+2016,Youngs St ,0.436
+2016,Arkansas St ,0.436
+2016,U Penn ,0.436
+2016,Dartmouth ,0.435
+2016,Savannah St ,0.434
+2016,Beth-Cook ,0.434
+2016,Seattle ,0.433
+2016,Jacksonville ,0.430
+2016,Rob Morris ,0.430
+2016,UMKC ,0.430
+2016,Hartford ,0.429
+2016,Rutgers ,0.427
+2016,Troy ,0.427
+2016,North Texas ,0.427
+2016,CS Fullerton ,0.426
+2016,N Kentucky ,0.424
+2016,Quinnipiac ,0.423
+2016,Charl South ,0.423
+2016,Stetson ,0.420
+2016,San Jose St ,0.420
+2016,Fla Atlantic ,0.420
+2016,San Diego ,0.420
+2016,Binghamton ,0.419
+2016,N Colorado ,0.417
+2016,SIU Edward ,0.416
+2016,Bradley ,0.415
+2016,Campbell ,0.412
+2016,Maryland ES ,0.412
+2016,Jksnville St ,0.411
+2016,Nicholls St ,0.411
+2016,Brown ,0.409
+2016,NC Central ,0.409
+2016,VA Military ,0.408
+2016,S Mississippi ,0.408
+2016,Ark Pine Bl ,0.408
+2016,Maine ,0.407
+2016,Marist ,0.407
+2016,Niagara ,0.406
+2016,Presbyterian ,0.406
+2016,Bryant ,0.406
+2016,Coppin State ,0.405
+2016,Abilene Christian ,0.405
+2016,SC Upstate ,0.403
+2016,Longwood ,0.403
+2016,Citadel ,0.403
+2016,SE Louisiana ,0.401
+2016,Drake ,0.401
+2016,Lafayette ,0.400
+2016,Miss Val St ,0.400
+2016,Howard ,0.400
+2016,Morgan St ,0.399
+2016,N Arizona ,0.397
+2016,Alab A&M ,0.396
+2016,Prairie View ,0.395
+2016,TX-Pan Am ,0.394
+2016,S Utah ,0.390
+2016,Maryland BC ,0.390
+2016,Lamar ,0.389
+2016,Central Ark ,0.388
+2016,McNeese St ,0.384
+2016,NC A&T ,0.384
+2016,SE Missouri ,0.381
+2016,New Orleans ,0.380
+2016,NW State ,0.379
+2016,Delaware St ,0.369
+2016,TX-San Ant ,0.369
+2016,IL-Chicago ,0.368
+2016,Chicago St ,0.363
+2016,Florida A&M ,0.362
+2016,Grambling St ,0.358
+2016,Central Conn ,0.342
+2017,Villanova ,0.660
+2017,Kansas ,0.655
+2017,N Carolina ,0.652
+2017,Florida ,0.650
+2017,Kentucky ,0.647
+2017,Louisville ,0.646
+2017,Gonzaga ,0.645
+2017,Arizona ,0.644
+2017,Oregon ,0.643
+2017,Baylor ,0.641
+2017,Florida St ,0.638
+2017,Duke ,0.637
+2017,Cincinnati ,0.632
+2017,Butler ,0.628
+2017,UCLA ,0.627
+2017,S Methodist ,0.622
+2017,St Marys ,0.622
+2017,Purdue ,0.620
+2017,Virginia ,0.619
+2017,Minnesota ,0.616
+2017,Dayton ,0.610
+2017,VCU ,0.608
+2017,Notre Dame ,0.607
+2017,W Virginia ,0.606
+2017,NC-Wilmgton ,0.603
+2017,Iowa State ,0.603
+2017,Maryland ,0.603
+2017,Creighton ,0.602
+2017,Wichita St ,0.599
+2017,Arkansas ,0.599
+2017,Xavier ,0.598
+2017,Illinois St ,0.598
+2017,S Carolina ,0.596
+2017,Nevada ,0.595
+2017,Middle Tenn ,0.593
+2017,TX-Arlington ,0.592
+2017,Wisconsin ,0.591
+2017,Seton Hall ,0.590
+2017,Miami (FL) ,0.590
+2017,Oklahoma St ,0.589
+2017,Wake Forest ,0.589
+2017,USC ,0.588
+2017,Vanderbilt ,0.588
+2017,Michigan ,0.588
+2017,Rhode Island ,0.586
+2017,VA Tech ,0.583
+2017,Michigan St ,0.582
+2017,Vermont ,0.582
+2017,Monmouth ,0.580
+2017,Georgia ,0.579
+2017,Houston ,0.578
+2017,Northwestern ,0.577
+2017,Princeton ,0.577
+2017,California ,0.574
+2017,Kansas St ,0.573
+2017,Providence ,0.572
+2017,E Tenn St ,0.572
+2017,Akron ,0.570
+2017,Col Charlestn ,0.570
+2017,Marquette ,0.568
+2017,Belmont ,0.566
+2017,Bucknell ,0.564
+2017,Illinois ,0.563
+2017,TX Christian ,0.560
+2017,BYU ,0.560
+2017,N Mex State ,0.560
+2017,Colorado St ,0.558
+2017,Clemson ,0.558
+2017,Winthrop ,0.557
+2017,Mississippi ,0.557
+2017,Boise State ,0.555
+2017,Pittsburgh ,0.555
+2017,Fresno St ,0.554
+2017,NC-Asheville ,0.554
+2017,Indiana ,0.554
+2017,Valparaiso ,0.554
+2017,Central FL ,0.553
+2017,CS Bakersfld ,0.550
+2017,Iowa ,0.549
+2017,Utah ,0.549
+2017,Tennessee ,0.548
+2017,Richmond ,0.547
+2017,Alabama ,0.546
+2017,Fla Gulf Cst ,0.546
+2017,Syracuse ,0.545
+2017,New Mexico ,0.545
+2017,Ohio State ,0.544
+2017,St Bonavent ,0.544
+2017,N Kentucky ,0.543
+2017,Iona ,0.541
+2017,Towson ,0.541
+2017,Texas A&M ,0.540
+2017,San Diego St ,0.539
+2017,Geo Wshgtn ,0.539
+2017,San Fransco ,0.538
+2017,Colorado ,0.538
+2017,NC-Grnsboro ,0.538
+2017,Stanford ,0.537
+2017,Furman ,0.536
+2017,Lehigh ,0.536
+2017,Davidson ,0.535
+2017,Penn State ,0.534
+2017,Geo Mason ,0.534
+2017,LA Lafayette ,0.534
+2017,LA Tech ,0.533
+2017,GA Tech ,0.533
+2017,Nebraska ,0.533
+2017,Auburn ,0.531
+2017,Georgetown ,0.531
+2017,Ohio ,0.530
+2017,Memphis ,0.530
+2017,Georgia St ,0.530
+2017,GA Southern ,0.530
+2017,Oakland ,0.529
+2017,Wm & Mary ,0.528
+2017,N Dakota St ,0.528
+2017,Siena ,0.527
+2017,Arkansas St ,0.526
+2017,Wright State ,0.526
+2017,TX Southern ,0.526
+2017,Connecticut ,0.525
+2017,South Dakota ,0.524
+2017,St Johns ,0.524
+2017,Marshall ,0.523
+2017,Arizona St ,0.523
+2017,Texas Tech ,0.523
+2017,N Hampshire ,0.521
+2017,UC Irvine ,0.521
+2017,Temple ,0.521
+2017,Harvard ,0.521
+2017,Santa Clara ,0.521
+2017,Grand Canyon ,0.520
+2017,Tulsa ,0.520
+2017,St Peters ,0.520
+2017,La Salle ,0.519
+2017,Northeastrn ,0.518
+2017,Neb Omaha ,0.518
+2017,NC State ,0.518
+2017,Old Dominion ,0.518
+2017,Albany ,0.517
+2017,Chattanooga ,0.517
+2017,E Washingtn ,0.517
+2017,Yale ,0.516
+2017,Buffalo ,0.515
+2017,S Illinois ,0.515
+2017,Miss State ,0.514
+2017,Jksnville St ,0.510
+2017,Mt St Marys ,0.509
+2017,Wyoming ,0.509
+2017,Loyola Mymt ,0.508
+2017,Texas ,0.508
+2017,S Dakota St ,0.507
+2017,Toledo ,0.507
+2017,WI-Grn Bay ,0.507
+2017,TX A&M-CC ,0.506
+2017,N Iowa ,0.505
+2017,Oklahoma ,0.505
+2017,Wash State ,0.504
+2017,Elon ,0.504
+2017,Rice ,0.504
+2017,TN Martin ,0.503
+2017,Maryland BC ,0.503
+2017,TN State ,0.503
+2017,Ball State ,0.503
+2017,North Dakota ,0.503
+2017,Rutgers ,0.502
+2017,Kent State ,0.502
+2017,Samford ,0.502
+2017,Canisius ,0.502
+2017,E Michigan ,0.501
+2017,Liberty ,0.500
+2017,Houston Bap ,0.500
+2017,W Michigan ,0.500
+2017,Stony Brook ,0.500
+2017,IPFW ,0.499
+2017,Utah State ,0.497
+2017,New Orleans ,0.497
+2017,Coastal Car ,0.497
+2017,Loyola-Chi ,0.496
+2017,Fairfield ,0.495
+2017,Sam Hous St ,0.495
+2017,UMKC ,0.495
+2017,Gard-Webb ,0.495
+2017,Boston U ,0.495
+2017,UC Davis ,0.494
+2017,Troy ,0.494
+2017,Lipscomb ,0.493
+2017,Evansville ,0.493
+2017,U Mass ,0.493
+2017,San Jose St ,0.492
+2017,Wofford ,0.492
+2017,Mercer ,0.492
+2017,LSU ,0.492
+2017,Texas State ,0.491
+2017,Weber State ,0.489
+2017,Hofstra ,0.487
+2017,Ste F Austin ,0.487
+2017,U Penn ,0.487
+2017,UAB ,0.487
+2017,St Josephs ,0.486
+2017,Rider ,0.485
+2017,Morehead St ,0.485
+2017,Idaho ,0.483
+2017,Utah Val St ,0.483
+2017,San Diego ,0.482
+2017,Washington ,0.481
+2017,Navy ,0.481
+2017,Lg Beach St ,0.481
+2017,Holy Cross ,0.480
+2017,Missouri St ,0.480
+2017,Denver ,0.480
+2017,Fordham ,0.478
+2017,E Carolina ,0.477
+2017,NC Central ,0.477
+2017,Loyola-MD ,0.475
+2017,Boston Col ,0.474
+2017,Central Mich ,0.474
+2017,N Florida ,0.474
+2017,IUPUI ,0.473
+2017,Montana ,0.473
+2017,Bradley ,0.472
+2017,Pacific ,0.471
+2017,LIU-Brooklyn ,0.470
+2017,Bowling Grn ,0.468
+2017,W Kentucky ,0.468
+2017,TX El Paso ,0.467
+2017,Radford ,0.466
+2017,Lamar ,0.464
+2017,SC Upstate ,0.463
+2017,S Alabama ,0.463
+2017,Murray St ,0.463
+2017,Alcorn State ,0.462
+2017,Portland ,0.461
+2017,DePaul ,0.460
+2017,Indiana St ,0.460
+2017,Delaware ,0.460
+2017,Saint Louis ,0.460
+2017,High Point ,0.460
+2017,Rob Morris ,0.458
+2017,N Illinois ,0.457
+2017,UNLV ,0.457
+2017,Charlotte ,0.457
+2017,AR Lit Rock ,0.456
+2017,Campbell ,0.455
+2017,Norfolk St ,0.455
+2017,Pepperdine ,0.455
+2017,Wagner ,0.454
+2017,Nicholls St ,0.452
+2017,SE Louisiana ,0.452
+2017,E Kentucky ,0.452
+2017,Cleveland St ,0.452
+2017,IL-Chicago ,0.451
+2017,Air Force ,0.451
+2017,Montana St ,0.451
+2017,Youngs St ,0.451
+2017,Missouri ,0.450
+2017,James Mad ,0.449
+2017,St Fran (PA) ,0.448
+2017,WI-Milwkee ,0.447
+2017,Columbia ,0.447
+2017,Austin Peay ,0.446
+2017,Kennesaw St ,0.446
+2017,Manhattan ,0.445
+2017,TX-San Ant ,0.445
+2017,Duquesne ,0.443
+2017,E Illinois ,0.441
+2017,CS Fullerton ,0.441
+2017,Army ,0.441
+2017,Cornell ,0.439
+2017,Portland St ,0.439
+2017,W Carolina ,0.438
+2017,Quinnipiac ,0.438
+2017,Oregon St ,0.436
+2017,F Dickinson ,0.436
+2017,TN Tech ,0.436
+2017,SE Missouri ,0.436
+2017,Seattle ,0.436
+2017,Savannah St ,0.435
+2017,Maryland ES ,0.435
+2017,Hampton ,0.435
+2017,Marist ,0.435
+2017,Bryant ,0.434
+2017,Fla Atlantic ,0.434
+2017,Brown ,0.434
+2017,Niagara ,0.433
+2017,Citadel ,0.433
+2017,Detroit ,0.432
+2017,LA Monroe ,0.432
+2017,Abilene Christian ,0.431
+2017,Oral Roberts ,0.431
+2017,NJIT ,0.431
+2017,Tulane ,0.431
+2017,N Colorado ,0.431
+2017,Jacksonville ,0.430
+2017,Colgate ,0.429
+2017,Charl South ,0.428
+2017,Cal Poly ,0.428
+2017,Incarnate Word ,0.428
+2017,Miami (OH) ,0.427
+2017,App State ,0.427
+2017,Hawaii ,0.427
+2017,Sac State ,0.427
+2017,Prairie View ,0.427
+2017,NW State ,0.427
+2017,S Car State ,0.426
+2017,Dartmouth ,0.426
+2017,Sacred Hrt ,0.426
+2017,Drexel ,0.425
+2017,Massachusetts Lowell ,0.424
+2017,American ,0.424
+2017,Binghamton ,0.423
+2017,Central Ark ,0.423
+2017,Cal St Nrdge ,0.421
+2017,Southern ,0.419
+2017,Drake ,0.419
+2017,McNeese St ,0.419
+2017,S Florida ,0.418
+2017,TX-Pan Am ,0.417
+2017,Grambling St ,0.416
+2017,Chicago St ,0.415
+2017,Lafayette ,0.414
+2017,Maine ,0.412
+2017,Jackson St ,0.412
+2017,UCSB ,0.412
+2017,W Illinois ,0.410
+2017,Morgan St ,0.408
+2017,Stetson ,0.407
+2017,Hartford ,0.406
+2017,VA Military ,0.404
+2017,UC Riverside ,0.400
+2017,S Mississippi ,0.398
+2017,Delaware St ,0.395
+2017,SIU Edward ,0.395
+2017,Miss Val St ,0.394
+2017,N Arizona ,0.392
+2017,Coppin State ,0.391
+2017,Howard ,0.390
+2017,Florida Intl ,0.389
+2017,North Texas ,0.388
+2017,Idaho State ,0.380
+2017,S Utah ,0.379
+2017,Longwood ,0.373
+2017,Alabama St ,0.373
+2017,Central Conn ,0.366
+2017,Ark Pine Bl ,0.366
+2017,Presbyterian ,0.365
+2017,Beth-Cook ,0.362
+2017,St Fran (NY) ,0.346
+2017,Florida A&M ,0.336
+2017,NC A&T ,0.317
+2017,Alab A&M ,0.314
